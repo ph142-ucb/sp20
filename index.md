@@ -7,9 +7,9 @@ description: >-
     for developing course websites.
 ---
 
-# Launch your class website on GitHub Pages
+# Introduction to Probability and Statistics in Biology and Public Health
 {: .mb-2 }
-Just the Class, Summer 2019
+PH 142, Spring 2020
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -20,20 +20,14 @@ Just the Class, Summer 2019
 </div>
 
 {% if site.announcements %}
-{{ site.announcements.last }}
-<a href="{{ site.baseurl }}/announcements" class="btn btn-outline fs-3">
-  All Announcements
-</a>
+We will not be updating this page with announcements. For the latest announcements, make sure to check our [Piazza](piazza.com/berkeley/spring2020/ph142).
 {% endif %}
 
-## Just the Class
+## Important Information
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
-
-- a [course calendar](calendar),
-- a [staff](staff) page,
-- a weekly [schedule](schedule),
-- and [Google Calendar](google-calendar) integration.
+- When: Mondays, Wednesdays, & Fridays, 8:10am-9:00am
+- Where: 245 Li Ka Shing
+- What: See the [syllabus](syllabus)
 
 Just the Class is built on top of [Just the Docs](https://github.com/pmarsceill/just-the-docs), making it easy to extend for your own special use cases while providing sane defaults for most everything else. This means that you also get:
 
@@ -58,6 +52,7 @@ Just the Class is built for [Jekyll](https://jekyllrb.com), a static site genera
 
 1. Follow the GitHub documentation for [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll).
 1. Start your local Jekyll server.
+
 ```bash
 $ bundle exec jekyll serve
 ```
