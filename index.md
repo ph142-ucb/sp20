@@ -27,36 +27,21 @@ We will not be updating this page with announcements. For the latest announcemen
 
 - When: Mondays, Wednesdays, & Fridays, 8:10am-9:00am
 - Where: 245 Li Ka Shing
-- What: See the [syllabus](syllabus)
+- What: See the [schedule](course-schedule)
+- Course number: 
 
-Just the Class is built on top of [Just the Docs](https://github.com/pmarsceill/just-the-docs), making it easy to extend for your own special use cases while providing sane defaults for most everything else. This means that you also get:
+## Goals
 
-- automatic [navigation structure](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://pmarsceill.github.io/just-the-docs/docs/search/) and page indexing,
-- and a small but powerful set of [UI components](https://pmarsceill.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://pmarsceill.github.io/just-the-docs/docs/utilities).
+- Build strong foundations in statistics and introduce students to programming to prepare students for more advanced courses involving data analysis.
+- Foster a mindset of statistical thinking to give students the tools to understand experiments and research studies and evaluate their validity.
+- Empower students to address real-world problems with technical prowess.
 
-## Getting Started
+## Course Description
 
-Getting started with Just the Class is simple.
+This course is an introduction to statistics and data science, primarily for MPH and undergraduate public health majors, and others interested in public health topics. The course can be divided into three parts: 
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Update `_config.yml` with your course information.
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add your content.
+- **Part I:** We will be focusing on learning to explore and summarize univariate and bivariate distributions. We will be using the R statistical software to do this, specifically, we will use the dplyr and ggplot2 packages. 
+- **Part II:** We will be learning about classical problems in probability and the some commonly used probability distributions: the Normal, Binomial, and Poisson distributions. In Part II we will also make the link between theoretical distributions and sampled distributions and cover a key concept called the Central Limit Theorem. 
+- **Part III:** We introduce statistical inference, the process of estimating statistics from samples to make inference about populations. 
 
-Continue reading to learn how to setup a development environment on your local computer. This allows you to make incremental changes without directly modifying the live website.
-
-### Local development environment
-
-Just the Class is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
-
-1. Follow the GitHub documentation for [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll).
-1. Start your local Jekyll server.
-
-```bash
-$ bundle exec jekyll serve
-```
-1. Point your web browser to [http://localhost:4000](http://localhost:4000)
-1. Reload your web browser after making a change to preview its effect.
-
-For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+Throughout the course, we will follow the **PPDAC model**, which stands for “Problem, Plan, Data, Analysis, and Conclusion”. 

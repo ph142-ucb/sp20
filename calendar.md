@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Google Calendar
-nav_order: 5
+title: Calendar
+nav_order: 2
 description: An embedded Google Calendar displaying the weekly event schedule.
 ---
 
