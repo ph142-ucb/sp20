@@ -43,21 +43,119 @@ There will be weekly assignments to help you understand and practice the materia
 
 Assignments will be distributed as R markdown files on Datahub at the dates and times noted in the [course schedule](course-schedule).
 
-### Lab 
+### Lab <TODO: section?>
 
 Lab exercises are intended to practice concepts from lecture in a practical programming environment. You can complete and submit these during the lab section, or on your own beforehand. Students find it much more helpful to complete this in lab rather than independently, but we understand students learn differently, so feel free to do what works best for you.
 
-Lab exercises are **graded on correct completion**, so you must complete the lab fully, passing all tests, in order to receive credit for the assignment.
+Lab exercises are **graded on correct completion**, so you must complete the lab fully, passing all tests, in order to receive credit for the assignment. Since we provide all tests for correctness of your code, **grading is all-or-nothing**.
 
 
 ### Homework
 
-Homework assignments give you practice performing quantitative analyses in R and interpreting the results. Homework will generally be posted on Wednesday nights and due the following Tuesday night.  
+Homework assignments give you practice performing quantitative analyses in R and interpreting the results. Homework will generally be posted on Wednesday nights and due the following Tuesday night. 
 
-While group work is encouraged, students must submit their own code and completed answers for marking.
+Homework is **graded on correctness**. The tests provided will only make sure your answers are within reasonable bounds (ie. if the answer is 50, we might provide tests that check that your answer is within the range of 0-100, and not 142000) so please use them as sanity checks rather than tests of correctness. This is to foster programming independence, as you should always review your code and not depend on someone else to check your code. For this reason, as we recognize this is challenging, homework is **graded as a percentage of problems correct over total points possible.**
 
-### Late Policy  
-A 50% late penalty will be applied for any problem set submitted within 24 hours of due date, no marks for assignments submitted thereafter.  
+### Project
+
+You will each be assigned to a group of 4 to 5 students on January 31. The purpose of the group project will be to use public health or biological data that you find or have access to and use it to demonstrate three statistical concepts that you’ve learned throughout the course. The data project has three parts corresponding to the three sections of the course. We will also have a peer review process that will contribute to the grading for this project. More information will be provided at a later date. 
+
+## Late Policy  
+A 50% late penalty will be applied for any problem set submitted within 24 hours of due date, no marks for assignments submitted thereafter.  <TODO: clarify lab/hw?>
+
+
+## Exams
+
+There are two in-class midterms and one final exam. Exams will cover the material presented in lecture, discussion, and lab sections, including R coding syntax, unless otherwise noted. You'll be allowed one single-sided 8.5x11 sheet of notes for each exam.
+
+- **Midterm 1:**  Wednesday, February 19 *(in class)*
+- **Midterm 2:** Friday, March 20 *(in class)*
+- **Final:** Monday, May 11, 8-11am
+
+On the *first midterm* you may be tested on your ability to:
+
+- Describe distributions of variables visually and calculate summary statistics for measures of centrality and spread
+- Determine the appropriate graphic to plot distributions and provide code snippets to manipulate and visualize data frames 
+- Interpret output from a simple linear regression model
+
+On the *second midterm* you may be tested on your ability to:
+
+- Compute probabilities using the general rules
+- Identify and describe binomial and Poisson random variables
+- Use basic properties of the Normal distribution to compute probabilities
+- Describe the central limit theorem
+- Estimate means, proportions, and differences between means and proportions, compute their confidence intervals and perform statistical tests
+- State the assumptions and importance of the assumptions for statistical tests
+
+On the *final exam* you may be tested on your ability to:
+
+- Perform a simple chi-squared test
+- Perform a matched t-test
+- Describe and check the assumptions for simple linear regression. Interpret the confidence interval and statistical test of regression intercept and slope coefficients
+- Describe ANOVA, including the null and alternative hypotheses, and interpret output
+- Describe when bootstrapping can be used
+- Describe a permutation test
+- Demonstrate knowledge that has been used throughout the term, in terms of data visualization and data manipulation
+
+### Exam Conflicts
+
+If you have a conflict with any of the exam dates, **you must notify the instructor by email by February 1st.** If you have a conflict, you may have the option to take an early “beta” version of the midterm/final, usually in the week prior to the scheduled midterm/final. Beta versions of the exam give us a chance to refine questions, should the questions change for the final version, beta testers scores will be adjusted upwards by a percentage determined by the number of exam points that changed between versions. Please note that the only acceptable reason for missing an exam is a medical or family emergency with supporting documentation. 
+
+## Grading
+
+- In-class participation and quizzes: 10% 
+- Lab Participation: 5%
+- Problem sets: 20% 
+- Midterm 1: 15%
+- Midterm 2: 15%
+- Project: 10%
+- Final Exam: 25%
+- Extra Credit *(optional)*: up to 2 points on total grade 
+
+S/U (satisfactory/unsatisfactory) grading is permitted for this course. There are no differences in the course requirements or the grading for students who choose this option. “S” will appear on transcripts for grades of “B-” or above.
+
+### In-class participation
+
+Participation questions will be incorporated into lecture.  Points for participation will be  awarded based on completion of questions during lecture. These questions will be posed daily at a random point during the lecture. **You are permitted to miss 5 questions without penalty.**
+
+### In-class quizzes
+
+Periodically we will have short in-class quizzes. These will be exam style questions and will be graded, however **the lowest 2 of your 7 quiz grades will be dropped.** 
+
+The allowance for missed participation and dropping the lowest quiz grades is intended to give a buffer for absence due to illness or unforeseen circumstances.
+
+## Regrade Policy
+
+Regrades will be allowed on homeworks and exams, and must be submitted within three school days after the grades are released. Note that if you request reconsideration of a graded question, instructors may reconsider grades on other the entire assignment.
+
+## Extra Credit *(optional)*
+
+Throughout the course we will be reviewing examples of statistics in news and popular press. Students may complete an optional assignment for extra credit by choosing and reviewing a recent article (within the last 12 months) that uses a concept presented in our course. Further details will be provided during the first section. **Extra credit must be turned in before April 17th.**
+
+
+## Questions and Concerns
+
+Questions during lecture and lab are strongly encouraged. If something is unclear to you, it is probably unclear to many others in the room. There may be times, however, when the instructor or the GSI decides that a particular question or discussion is not helpful to the entire class or will take too long to address satisfactorily. In these cases, we may defer the question to be answered outside of class time. If important questions are answered outside of class, the answers will be shared with the entire class on Piazza.
+
+We will use Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the GSIs, and instructor. In general, you can expect that the GSIs will respond to posted questions within 24 hours. Please do not email course content questions directly to the instructor or GSIs. The instructor and GSIs will not respond to questions about course content by email.
+
+GSIs will not respond to Piazza questions during holidays and breaks. GSIs will respond to Piazza questions up until 24 hours before exams. However, students may continue to post and answer each other’s questions during breaks and in the last 24 hours before an exam.
+
+For questions and concerns that are not related to course content, please email [142gsi@berkeley.edu](142gsi@berkeley.edu). GSIs will respond to the course email account within 1 business day. Email responses may be slower over weekends and breaks.
+
+## DSP Policy <TODO: verify correctness>
+
+We will accommodate DSP students according to DSP documentation. Please provide your written requests to the instructor and your GSI and email Asem at [asem_berkalieva@berkeley.edu](asem_berkalieva@berkeley.edu) by **February 1st** with your request and "DSP accommodation" in the subject heading so that any accommodations can be implemented in time for the first midterm exam. If your accommodation allows for extension on take home assignments we ask that you discuss your request no later than 24 hours after the assignment is posted. 
+
+## Academic Honesty
+
+Learning is hard work--and we encourage collaboration so students can support one another. However, while group work is encouraged, students must submit their own code and completed answers for grading.
+  
+If evidence of plagarism is detected, these assignments will be flagged for academic misconduct. This can result in a grade of 0 on an assignment, and a harsher penalty if looking back on past work there is evidence of repeatedly submitting work that is duplicated from other students.
+
+In no circumstances should you send your Rmd or PDF of your assignment to other students in the class. Assignments that appear to be duplications or near-duplications of others' work will be immediately flagged and reported to the Center for Student Conduct for review.
+
+If you are not clear about the expectations for completing an assignment or taking a test or examination, be sure to seek clarification from the instructors or your GSI beforehand.
 
 
 
