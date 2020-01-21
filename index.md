@@ -27,7 +27,7 @@ We will not be updating this page with announcements. For the latest announcemen
 
 - When: Mondays, Wednesdays, & Fridays, 8:10am-9:00am
 - Where: 245 Li Ka Shing
-- What: See the [schedule](course-schedule)
+- What: See the [course schedule]({{ site.baseurl }}/course-schedule)
 - Course number: 28928
 
 ## Goals
