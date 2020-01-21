@@ -32,6 +32,8 @@ nav_links:
     - 'https://www.gradescope.com/courses/79434'
   Piazza:
     - 'https://piazza.com/berkeley/spring2020/ph142'
+  Datahub:
+    - 'https://r.datahub.berkeley.edu'
 nav_footer_content: "Powered by <a href=\"https://github.com/kevinlin1/just-the-class\">Just the Class</a>"
 
 # Collections for website data
