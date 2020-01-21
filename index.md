@@ -20,7 +20,7 @@ PH 142, Spring 2020
 </div>
 
 {% if site.announcements %}
-We will not be updating this page with announcements. For the latest announcements, make sure to check our [Piazza](piazza.com/berkeley/spring2020/ph142).
+We will not be updating this page with announcements. For the latest announcements, make sure to check our [Piazza](https://piazza.com/berkeley/spring2020/ph142).
 {% endif %}
 
 ## Important Information
