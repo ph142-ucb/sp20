@@ -37,6 +37,10 @@ Lab participation will be graded based on submission of the weekly lab by the en
 
 Unless you have a conflict in a particular week and have discussed a switch with your GSI, you must attend the section in which you are registered as the lab rooms are small and cannot accommodate switching.
 
+### Reading Materials
+
+The course textbook is [The Practice of Statistics in the Life Sciences](https://www.amazon.com/Practice-Statistics-Sciences-Brigitte-Baldi/dp/1319013376) by Brigitte Baldi and David S. Moore. The 4th edition is the latest one, but previous editions are fine. The course textbook is on reserve for two-hour time intervals at the Biosciences, Natural Resources, and Public Health Library (2101 Valley Life Sciences Building).  It is up to you if you decide to purchase the textbook. We rely on it more during Part II and III of the course than we do in Part I. 
+
 ## Assignments
 
 There will be weekly assignments to help you understand and practice the material, in the form of homework assignments and lab exercises. There will also be one group project.
