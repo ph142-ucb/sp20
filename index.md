@@ -28,6 +28,7 @@ We will not be updating this page with announcements. For the latest announcemen
 - Where: 245 Li Ka Shing
 - What: See the [course schedule]({{ site.baseurl }}/course-schedule)
 - Course number: 28928
+- Email for non-content inquiries: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
 
 ## Goals
 
