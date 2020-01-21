@@ -3,8 +3,7 @@ layout: home
 title: Home
 nav_order: 0
 description: >-
-    Just the Class is a modern, highly customizable, responsive Jekyll theme
-    for developing course websites.
+    UC Berkeley's PH 142: Introduction to Probability and Statistics in Biology and Public Health
 ---
 
 # Introduction to Probability and Statistics in Biology and Public Health
