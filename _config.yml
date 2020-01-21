@@ -18,7 +18,7 @@ description: Website for PH 142 Spring 2020
 author: Nolan Pokpongkiat
 email: nnp@berkeley.edu
 baseurl: '/sp20' # the subpath of your site, e.g. /blog
-url: 'https://ph142-ucb.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://ph142-ucb.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
