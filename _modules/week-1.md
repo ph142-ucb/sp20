@@ -1,6 +1,10 @@
 ---
 title: Week 1
 days:
+  - date: 2020-01-20
+    events:
+      "**Mon: No class**":
+        null
   - date: 2020-01-22
     events:
       "**Wed:** [Intro to PH142, Datahub, and PPDAC](#)":
