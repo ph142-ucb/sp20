@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-For lab section schedules for each GSI, see the [calendar]({{ site.baseurl }}/calendar)
+For lab section schedules for each GSI, see the [calendar]({{ site.baseurl }}/calendar).
 
 ## Instructor
 

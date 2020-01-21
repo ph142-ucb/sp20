@@ -2,7 +2,7 @@
 name: Mi-Suk Kang Dufour
 role: Instructor
 email: mi-suk@berkeley.edu
-website: https://ph142-ucb.github.io/sp20
+website: 
 photo: https://ph142-ucb.github.io/sp20/img/mi-suk.jpeg
 ---
 

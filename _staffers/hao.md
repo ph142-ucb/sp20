@@ -2,7 +2,7 @@
 name: Hao Wang
 role: Teaching Assistant
 email: hao_wang@berkeley.edu
-website: https://ph142-ucb.github.io/sp20
+website: 
 photo: https://ph142-ucb.github.io/sp20/img/hao.jpg
 ---
 
