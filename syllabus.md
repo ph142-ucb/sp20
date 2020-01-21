@@ -72,13 +72,13 @@ There are two in-class midterms and one final exam. Exams will cover the materia
 - **Midterm 2:** Friday, March 20 *(in class)*
 - **Final:** Monday, May 11, 8-11am
 
-On the *first midterm* you may be tested on your ability to:
+On the **first midterm** you may be tested on your ability to:
 
 - Describe distributions of variables visually and calculate summary statistics for measures of centrality and spread
 - Determine the appropriate graphic to plot distributions and provide code snippets to manipulate and visualize data frames 
 - Interpret output from a simple linear regression model
 
-On the *second midterm* you may be tested on your ability to:
+On the **second midterm** you may be tested on your ability to:
 
 - Compute probabilities using the general rules
 - Identify and describe binomial and Poisson random variables
@@ -87,7 +87,7 @@ On the *second midterm* you may be tested on your ability to:
 - Estimate means, proportions, and differences between means and proportions, compute their confidence intervals and perform statistical tests
 - State the assumptions and importance of the assumptions for statistical tests
 
-On the *final exam* you may be tested on your ability to:
+On the **final exam** you may be tested on your ability to:
 
 - Perform a simple chi-squared test
 - Perform a matched t-test
@@ -103,14 +103,14 @@ If you have a conflict with any of the exam dates, **you must notify the instruc
 
 ## Grading
 
-- In-class participation and quizzes: 10% 
-- Lab Participation: 5%
-- Problem sets: 20% 
-- Midterm 1: 15%
-- Midterm 2: 15%
-- Project: 10%
-- Final Exam: 25%
-- Extra Credit *(optional)*: up to 2 points on total grade 
+- **In-class participation and quizzes:** 10% 
+- **Lab Participation:** 5%
+- **Problem sets:** 20% 
+- **Midterm 1:** 15%
+- **Midterm 2:** 15%
+- **Project:** 10%
+- **Final Exam:** 25%
+- **Extra Credit _*(optional)*_**: up to 2 points on total grade 
 
 S/U (satisfactory/unsatisfactory) grading is permitted for this course. There are no differences in the course requirements or the grading for students who choose this option. “S” will appear on transcripts for grades of “B-” or above.
 
@@ -126,7 +126,7 @@ The allowance for missed participation and dropping the lowest quiz grades is in
 
 ## Regrade Policy
 
-Regrades will be allowed on homeworks and exams, and must be submitted within three school days after the grades are released. Note that if you request reconsideration of a graded question, instructors may reconsider grades on other the entire assignment.
+Regrades will be allowed on homeworks and exams, and must be submitted **within three school days** after the grades are released. Note that if you request reconsideration of a graded question, instructors may reconsider grades on other the entire assignment.
 
 ## Extra Credit *(optional)*
 
@@ -139,7 +139,7 @@ Questions during lecture and lab are strongly encouraged. If something is unclea
 
 We will use Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the GSIs, and instructor. In general, you can expect that the GSIs will respond to posted questions within 24 hours. Please do not email course content questions directly to the instructor or GSIs. The instructor and GSIs will not respond to questions about course content by email.
 
-GSIs will not respond to Piazza questions during holidays and breaks. GSIs will respond to Piazza questions up until 24 hours before exams. However, students may continue to post and answer each other’s questions during breaks and in the last 24 hours before an exam.
+**GSIs will not respond to Piazza questions during holidays and breaks.** GSIs will respond to Piazza questions up until 24 hours before exams. However, students may continue to post and answer each other’s questions during breaks and in the last 24 hours before an exam.
 
 For questions and concerns that are not related to course content, please email [142gsi@berkeley.edu](142gsi@berkeley.edu). GSIs will respond to the course email account within 1 business day. Email responses may be slower over weekends and breaks.
 
@@ -149,7 +149,7 @@ We will accommodate DSP students according to DSP documentation. Please provide 
 
 ## Academic Honesty
 
-Learning is hard work--and we encourage collaboration so students can support one another. However, while group work is encouraged, students must submit their own code and completed answers for grading.
+Learning is hard work--we encourage everyone to work together and support one another. However, while group work is encouraged, students must submit their own code and completed answers for grading.
   
 If evidence of plagarism is detected, these assignments will be flagged for academic misconduct. This can result in a grade of 0 on an assignment, and a harsher penalty if looking back on past work there is evidence of repeatedly submitting work that is duplicated from other students.
 
