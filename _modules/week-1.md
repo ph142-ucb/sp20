@@ -1,28 +1,20 @@
 ---
-title: Introduction to Java
+title: Week 1
 days:
-  - date: 2019-04-01
+  - date: 2020-01-22
     events:
-      "[Java & Git](#)":
-        "[1.1](#)"
-      "Homework 1 out":
+      "[Intro to PH142, Datahub, and PPDAC](#)":
         null
-  - date: 2019-04-02
+      "**Homework**{: .label } [Homework 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fsp20&urlpath=rstudio%2F) (Due Jan. 28)"
+  - date: 2019-01-24
     events:
-      "**Section**{: .label } [Intro to Java](#)":
-        "Solution"
-  - date: 2019-04-03
-    events:
-      "[Variables & Objects](#)":
-        "[1.2](#), [2.1](#)"
-  - date: 2019-04-04
-    events:
-      "**Lab**{: .label } [Intro to Java](#)":
-        null
-  - date: 2019-04-05
-    events:
-      "[Tracing, IntLists, & Recursion](#)":
-        "[2.1](#)"
-      "Homework 1 due":
-        null
+      "[Working with Data in R and RStudio (dplyr)](#)":
+        "Chapter 1"
+      "**Lab**{: .label } [Lab 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fsp20&urlpath=rstudio%2F) (Due Jan. 24)"
 ---
+
+
+<!-- 
+events:
+      "**Section**{: .label } [Intro to Java](#)":
+        "Solution" -->
