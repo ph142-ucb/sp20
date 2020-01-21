@@ -153,7 +153,7 @@ We will accommodate DSP students according to DSP documentation. Please provide 
 
 ## Academic Honesty
 
-Learning is hard work--we encourage everyone to work together and support one another. However, while group work is encouraged, students must submit their own code and completed answers for grading.
+Learning is hard work--we encourage everyone to work together and support one another. However, while group work is encouraged, **students must submit their own code and completed answers** for grading.
   
 If evidence of plagarism is detected, these assignments will be flagged for academic misconduct. This can result in a grade of 0 on an assignment, and a harsher penalty if looking back on past work there is evidence of repeatedly submitting work that is duplicated from other students.
 
