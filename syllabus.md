@@ -47,7 +47,7 @@ There will be weekly assignments to help you understand and practice the materia
 
 Assignments will be distributed as R markdown files on Datahub at the dates and times noted in the [course schedule]({{ site.baseurl }}/course-schedule).
 
-### Lab <TODO: section?>
+### Lab 
 
 Lab exercises are intended to practice concepts from lecture in a practical programming environment. You can complete and submit these during the lab section, or on your own beforehand. Students find it much more helpful to complete this in lab rather than independently, but we understand students learn differently, so feel free to do what works best for you.
 
