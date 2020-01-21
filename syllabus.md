@@ -149,7 +149,7 @@ For questions and concerns that are not related to course content, please email 
 
 ## DSP Policy <TODO: verify correctness>
 
-We will accommodate DSP students according to DSP documentation. Please provide your written requests to the instructor and your GSI and email Asem at [asem_berkalieva@berkeley.edu](asem_berkalieva@berkeley.edu) by **February 1st** with your request and "DSP accommodation" in the subject heading so that any accommodations can be implemented in time for the first midterm exam. If your accommodation allows for extension on take home assignments we ask that you discuss your request no later than 24 hours after the assignment is posted. 
+We will accommodate DSP students according to DSP documentation. Please provide your written requests to the instructor and your GSI and email Asem at [asem_berkalieva@berkeley.edu](mailto:asem_berkalieva@berkeley.edu) by **February 1st** with your request and "DSP accommodation" in the subject heading so that any accommodations can be implemented in time for the first midterm exam. If your accommodation allows for extension on take home assignments we ask that you discuss your request no later than 24 hours after the assignment is posted. 
 
 ## Academic Honesty
 

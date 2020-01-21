@@ -1,28 +1,19 @@
 ---
-title: Basic Data Structures
+title: Week 2
 days:
-  - date: 2019-04-08
+  - date: 2020-01-27
     events:
-      "[Linked Lists & Encapsulation](#)":
-        "[3.1](#), [2.2](#), [2.3](#)"
-      "Homework 2 out":
+      "**Mon:** [Visualizing Data in R and RStudio (ggplot2)](#)":
         null
-  - date: 2019-04-09
+  - date: 2020-01-29
     events:
-      "**Section**{: .label } [Linked Lists](#)":
-        "Solution"
-  - date: 2019-04-10
+      "**Wed:** [Visualizing distributions for one variable, numerically summarizing spread and central tendency](#)":
+        "Ch. 2"
+      "**Homework**{: .label .label-disc} [Homework 2](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fsp20&urlpath=rstudio%2F) (Solutions) (Due Feb. 2)":
+  - date: 2020-01-31
     events:
-      "[Resizing Arrays](#)":
-        "[2.4](#), [2.5](#)"
-  - date: 2019-04-11
-    events:
-      "**Lab**{: .label } [Resizing Arrays](#)":
-        null
-  - date: 2019-04-12
-    events:
-      "[Runtime Analysis](#)":
-        "[8.1](#), [8.2](#), [8.3](#), [8.4](#)"
-      "Homework 2 due":
+      "**Fri:** [Exploring relationships between two variables](#)":
+        "Ch. 3"
+      "**Lab**{: .label .label-lab} [Lab 2](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fsp20&urlpath=rstudio%2F) (Solutions) (Due Jan. 31)":
         null
 ---
