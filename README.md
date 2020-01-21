@@ -1,17 +1,8 @@
-# Just the Class
+# PH 142
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This repo hosts the source files for PH142's Spring 2020 [website](https://ph142-ucb.github.io/sp20/).
 
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- a weekly [schedule](schedule.md),
-- and [Google Calendar](google-calendar.md) integration.
-
-Just the Class is built on top of [Just the Docs](https://github.com/pmarsceill/just-the-docs), making it easy to extend for your own special use cases while providing sane defaults for most everything else. This means that you also get:
-
-- automatic [navigation structure](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://pmarsceill.github.io/just-the-docs/docs/search/) and page indexing,
-- and a small but powerful set of [UI components](https://pmarsceill.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://pmarsceill.github.io/just-the-docs/docs/utilities).
+This site is built from Kevin Lin's [Just the Class](https://github.com/kevinlin1/just-the-class).
 
 ## Getting Started
 
