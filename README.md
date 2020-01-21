@@ -13,7 +13,9 @@ $ git clone https://github.com/ph142-ucb/sp20.git
 2. Make a branch.
 3. Submit a PR and add [Nolan](https://github.com/nnpok) as a reviewer.
 
-See this [amazing guide](https://www.youtube.com/watch?v=azPPK5aOcV0&feature=youtu.be&t=460s) by [Suraj](https://github.com/surajrampure).
+See this [amazing video guide](https://www.youtube.com/watch?v=azPPK5aOcV0&feature=youtu.be&t=460s) by [Suraj](https://github.com/surajrampure).
+
+-- or just ping Nolan on Slack.
 
 
 ### Local development environment
