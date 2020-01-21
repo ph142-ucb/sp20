@@ -30,8 +30,8 @@ Staff information is stored in the `_staffers` directory and rendered according 
 ## Course Infrastructure
 
 <div class="role">
-  {% assign teaching_assistants = site.staffers | where: 'role', 'Infrastructure' %}
-  {% for staffer in teaching_assistants %}
+  {% assign infra = site.staffers | where: 'role', 'Infrastructure' %}
+  {% for staffer in infra %}
   {{ staffer }}
   {% endfor %}
 </div>
