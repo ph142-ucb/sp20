@@ -7,7 +7,7 @@ description: Weekly lectures and assignments.
 
 # Course Schedule
 
-**Please note:** This schedule is still tentative, and is likely to change. See the [calendar]({{ site.baseurl }}/calendar) to see the scheduling of our weekly events (discussion, lab, office hours, etc).
+**Please note:** This schedule is still tentative, and is likely to change. See the [calendar]({{ site.baseurl }}/calendar) to see the scheduling of our weekly events (lecture, lab, office hours, etc).
 
 
 {% for module in site.modules %}
