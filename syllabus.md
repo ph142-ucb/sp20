@@ -23,11 +23,11 @@ The course has many opportunities for learning: lecture, section, and tutoring.
 
 ### Lecture
 
-There are 50-minute lectures on M, W, F each week. Lecture slides that are created in R markdown will be available on Datahub in the Lectures folder, ideally at least 12 hours in advance of the lecture, but this is not guaranteed. These will also be distributed in PDF format on the [course schedule](course-schedule). 
+There are 50-minute lectures on M, W, F each week. Lecture slides that are created in R markdown will be available on Datahub in the Lectures folder, ideally at least 12 hours in advance of the lecture, but this is not guaranteed. These will also be distributed in PDF format on the [course schedule]({{ site.baseurl }}/course-schedule). 
 
 Many lectures, including all of Part I of the course, encourage the use of R, RStudio, and Datahub. Please bring your laptop to class if possible, though take steps to minimize distractions (i.e., turning off notifications on your laptops/phones). Specifically, do not use laptops for entertainment and do not display any material on the laptop which may be distracting or offensive to your fellow students. Note this is not a requirement, and some students will prefer to follow along by taking notes on the PDF version of the slides, and reviewing the materials on Datahub after class. 
 
-Webcast will be made available on the [course schedule](course-schedule) soon after lecture. This is an excellent tool for students who would like to review lecture or who miss an occasional lecture. However, this course is not designed as an online course and the course capture should not be considered a substitute for attending the course.  Students should note that the course capture system is not controlled by the instructor, may not capture every lecture, does not always capture the entire lecture, and will most likely not capture all of the audible discussion.  
+Webcast will be made available on the [course schedule]({{ site.baseurl }}/course-schedule) soon after lecture. This is an excellent tool for students who would like to review lecture or who miss an occasional lecture. However, this course is not designed as an online course and the course capture should not be considered a substitute for attending the course.  Students should note that the course capture system is not controlled by the instructor, may not capture every lecture, does not always capture the entire lecture, and will most likely not capture all of the audible discussion.  
 
 ### Section
 
@@ -41,7 +41,7 @@ Unless you have a conflict in a particular week and have discussed a switch with
 
 There will be weekly assignments to help you understand and practice the material, in the form of homework assignments and lab exercises. There will also be one group project.
 
-Assignments will be distributed as R markdown files on Datahub at the dates and times noted in the [course schedule](course-schedule).
+Assignments will be distributed as R markdown files on Datahub at the dates and times noted in the [course schedule]({{ site.baseurl }}/course-schedule).
 
 ### Lab <TODO: section?>
 
