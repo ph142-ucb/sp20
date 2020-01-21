@@ -7,7 +7,7 @@ days:
         null
   - date: 2020-01-29
     events:
-      "**Wed:** [Visualizing distributions for one variable, numerically summarizing spread and central tendency](#)":
+      "**Wed:** [Visualizing distributions for one variable](#)":
         "Ch. 2"
       "**Homework**{: .label .label-disc} [Homework 2](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fsp20&urlpath=rstudio%2F) (Solutions) (Due Feb. 2)":
   - date: 2020-01-31
