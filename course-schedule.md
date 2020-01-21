@@ -13,3 +13,5 @@ description: Weekly lectures and assignments.
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+
+The rest of the schedule is in progress and will be updated soon...
