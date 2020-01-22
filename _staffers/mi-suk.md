@@ -7,5 +7,7 @@ photo: https://ph142-ucb.github.io/sp20/img/mi-suk.jpeg
 ---
 
 **Office Hours:** By appointment only. 
+All OH are held at my office.
+2121 Berkeley Way West, Rm 5334
 
 [Schedule an appointment](https://mi-suk.youcanbook.me/){: .btn .btn-outline }
