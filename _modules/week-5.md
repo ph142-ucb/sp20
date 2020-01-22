@@ -9,12 +9,12 @@ days:
     events:
       "**Exam**{: .label .label-exam} **Midterm 1** (in-class)":
         "Ch. 9"
-      "**Homework**{: .label .label-disc} [Homework 4](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fsp20&urlpath=rstudio%2F) (Due Feb. 25)":
+      "**Homework**{: .label .label-disc} Homework 4 (Due Feb. 25)":
         null
   - date: 2020-02-21
     events:
-      "**Fri:** [General Rules of Probability I](#)":
+      "**Fri:** General Rules of Probability I":
         "Ch. 10"
-      "**Lab**{: .label .label-lab} [Lab 4](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fsp20&urlpath=rstudio%2F) (Due Feb. 21)":
+      "**Lab**{: .label .label-lab} Lab 4 (Due Feb. 21)":
         null
 ---
