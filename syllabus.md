@@ -151,9 +151,46 @@ We will use Piazza for class discussion. The system is highly catered to getting
 
 For questions and concerns that are not related to course content, please email [142gsi@berkeley.edu](142gsi@berkeley.edu). GSIs will respond to the course email account within 1 business day. Email responses may be slower over weekends and breaks.
 
-## DSP Policy <TODO: verify correctness>
+## DSP Policy
 
-We will accommodate DSP students according to DSP documentation. Please provide your written requests to the instructor and your GSI and email Asem at [asem_berkalieva@berkeley.edu](mailto:asem_berkalieva@berkeley.edu) by **February 1st** with your request and "DSP accommodation" in the subject heading so that any accommodations can be implemented in time for the first midterm exam. If your accommodation allows for extension on take home assignments we ask that you discuss your request no later than 24 hours after the assignment is posted. 
+We will accommodate DSP students according to DSP documentation. Please provide your written requests to the instructor and your GSI and email Asem at [asem_berkalieva@berkeley.edu](mailto:asem_berkalieva@berkeley.edu) by **February 1st** with your request and **"DSP accommodation"** in the subject heading so that any accommodations can be implemented in time for the first midterm exam. If your accommodation allows for extension on take-home assignments, we ask that you discuss your request no later than 24 hours after the assignment is posted.
+
+To apply for DSP, see [here.](https://dsp.berkeley.edu/students/new-students)
+
+## Mental Health
+
+If you are experiencing stress, anxiety, or other forms of distress during the semester, we hope to be a resource for you--**please don't hesitate to reach out to a GSI or Professor for support.** You are not alone.
+
+There are also many resources available to you. All registered Berkeley students are eligible to use Counseling Psychological Services. **You do not have to purchase the Student Health Insurance Plan to use these services.** The first five counseling sessions are free for registered Berkeley students. Counselors can provide support in academic success, life management, career and life planning, and personal growth and development. 
+
+### UC Berkeley, Counseling and Psychological Services
+
+- Please call (510) 642-9494 or stop by the office on the 3rd floor of the Tang Center to make an appointment with a counselor.
+- **Drop-in counseling for emergencies:** Monday - Friday, 10:00AM-5:00PM
+- **After hours counseling:** In the case of emergencies at night or on weekends, call (855) 817-5667 for free assistance and referrals. Request to speak with a counselor.
+- **For emergency support:** Call UCPD 911 or (510) 642-3333
+
+### 24 Hour Crisis Hotlines
+
+- **Alameda County Crisis Line:** Call 1-800-309-2131 *(offers confidentiality, TDD services for deaf and hearing impaired callers and translation in 140 languages)*					
+- **National Crisis Help Line:** Call 1-800-273-TALK
+- **Crisis Text Line:** Text HOME to 741741
+- **National HopeLine Network:** Call 1-800-SUICIDE
+
+We also ask that you look out for your fellow peers. If you see any of the signs below that may indicate your classmate may need assistance, please use the resources above or reach out to any of the GSIs or Professors.
+
+- Withdrawing from other people
+- Changes in weight or eating patterns
+- Changes in sleeping patterns
+- Fatigue or lack of energy
+- Increased anxiety or irritability
+- Feeling worthless or hopeless
+
+### Other Campus Resources:
+
+- [**Let's Talk:** *Informal Drop-In Counseling*](https://uhs.berkeley.edu/counseling/lets-talk)
+- [**Self-Help Resources**](https://uhs.berkeley.edu/counseling/self-help)
+- [**Be Well at Cal**](https://uhs.berkeley.edu/bewell)
 
 ## Academic Honesty
 
@@ -163,7 +200,10 @@ If evidence of plagarism is detected, these assignments will be flagged for acad
 
 In no circumstances should you send your Rmd or PDF of your assignment to other students in the class. Assignments that appear to be duplications or near-duplications of others' work will be immediately flagged and reported to the Center for Student Conduct for review.
 
+Berkeley’s code of conduct is [here](https://sa.berkeley.edu/code-of-conduct.) See Section V and Appendix II for information about how UC Berkeley defines academic misconduct. In particular, the sections on cheating and plagiarism are most relevant for this class.
+
 If you are not clear about the expectations for completing an assignment or taking a test or examination, be sure to seek clarification from the instructors or your GSI beforehand.
+
 
 
 
