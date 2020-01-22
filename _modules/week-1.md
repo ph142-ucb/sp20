@@ -7,7 +7,7 @@ days:
         null
   - date: 2020-01-22
     events:
-      "**Wed:** [Intro to PH142, Datahub, and PPDAC](https://ph142-ucb.github.io/sp20/src/lec/l01-intro.png)":
+      "**Wed:** [Intro to PH142, Datahub, and PPDAC](https://ph142-ucb.github.io/sp20/src/lec/l01-intro.pdf)":
         null
       "**Homework**{: .label .label-disc} Homework 1 (Due Jan. 28)":
   - date: 2020-01-24
