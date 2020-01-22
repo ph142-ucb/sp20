@@ -64,7 +64,7 @@ Homework is **graded on correctness**. The tests provided will only make sure yo
 
 You will each be assigned to a group of 4 to 5 students on January 31. The purpose of the group project will be to use public health or biological data that you find or have access to and use it to demonstrate three statistical concepts that you’ve learned throughout the course. The data project has three parts corresponding to the three sections of the course. We will also have a peer review process that will contribute to the grading for this project. More information will be provided at a later date. 
 
-### Grace Period
+## Grace Period
 
 All assignments, unless stated otherwise, are **due on the specified day at 10:00pm.** Due to the nature of electronic submission, we understand that some students may experience technical difficulties with submission close to the deadline. Therefore, we are offering a **grace period of two hours, until 11:59pm,** to account for these submission issues. If you are having issues during this time, please email your GSI before 10:30pm. **We will not be accepting requests regarding submission errors after 11:59 on the due date.**
 
