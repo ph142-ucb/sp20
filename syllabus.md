@@ -136,6 +136,10 @@ Regrades will be allowed on homeworks and exams, and must be submitted **within 
 
 Throughout the course we will be reviewing examples of statistics in news and popular press. Students may complete an optional assignment for extra credit by choosing and reviewing a recent article (within the last 12 months) that uses a concept presented in our course. Further details will be provided during the first section. **Extra credit must be turned in before April 17th.**
 
+## Technology Resources
+
+Since this class relies on heavy use of technology (laptops, etc.), we want to make sure everyone has the resources to succeed. If you need to borrow a laptop from the school library, you can do so--more info [here](https://ds-modules.github.io/curriculum-guide/technology/resources).
+
 
 ## Questions and Concerns
 
