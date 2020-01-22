@@ -64,8 +64,12 @@ Homework is **graded on correctness**. The tests provided will only make sure yo
 
 You will each be assigned to a group of 4 to 5 students on January 31. The purpose of the group project will be to use public health or biological data that you find or have access to and use it to demonstrate three statistical concepts that you’ve learned throughout the course. The data project has three parts corresponding to the three sections of the course. We will also have a peer review process that will contribute to the grading for this project. More information will be provided at a later date. 
 
+### Grace Period
+
+All assignments, unless stated otherwise, are **due on the specified day at 10:00pm.** Due to the nature of electronic submission, we understand that some students may experience technical difficulties with submission close to the deadline. Therefore, we are offering a **grace period of two hours, until 11:59pm,** to account for these submission issues. If you are having issues during this time, please email your GSI before 10:30pm. **We will not be accepting requests regarding submission errors after 11:59 on the due date.**
+
 ## Late Policy  
-A 50% late penalty will be applied for any problem set submitted within 24 hours of due date, no marks for assignments submitted thereafter.  <TODO: clarify lab/hw?>
+A 50% late penalty will be applied for any assignment submitted within 24 hours of due date. No credit will be given for assignments submitted thereafter. This applies for both labs and homeworks.
 
 
 ## Exams
@@ -116,7 +120,7 @@ If you have a conflict with any of the exam dates, **you must notify the instruc
 - **Final Exam:** 25%
 - **Extra Credit _*(optional)*_**: up to 2 points on total grade 
 
-S/U (satisfactory/unsatisfactory) grading is permitted for this course. There are no differences in the course requirements or the grading for students who choose this option. “S” will appear on transcripts for grades of “B-” or above.
+P/NP grading is permitted for this course. There are no differences in the course requirements or the grading for students who choose this option. B- is a passing grade.
 
 ### In-class participation
 
@@ -138,7 +142,7 @@ Throughout the course we will be reviewing examples of statistics in news and po
 
 ## Technology Resources
 
-Since this class relies on heavy use of technology (laptops, etc.), we want to make sure everyone has the resources to succeed. If you need to borrow a laptop from the school library, you can do so--more info [here](https://ds-modules.github.io/curriculum-guide/technology/resources).
+Since this class relies on heavy use of technology (laptops, etc.), we want to make sure everyone has the resources to succeed. If you need to borrow a laptop from the school library, see [here](https://ds-modules.github.io/curriculum-guide/technology/resources).
 
 
 ## Questions and Concerns
