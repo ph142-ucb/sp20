@@ -14,6 +14,6 @@ days:
     events:
       "**Fri:** Working with Data in R and RStudio (dplyr)":
         "Ch. 1"
-      "**Lab**{: .label .label-lab} [Lab 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Jan. 24)":
+      "**Lab**{: .label .label-lab} [Lab 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Jan. 31) ~~(Due Jan. 24)~~":
         null
 ---
