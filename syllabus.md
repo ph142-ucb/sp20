@@ -204,7 +204,7 @@ If evidence of plagarism is detected, these assignments will be flagged for acad
 
 In no circumstances should you send your Rmd or PDF of your assignment to other students in the class. Assignments that appear to be duplications or near-duplications of others' work will be immediately flagged and reported to the Center for Student Conduct for review.
 
-Berkeley’s code of conduct is [here](https://sa.berkeley.edu/code-of-conduct.) See Section V and Appendix II for information about how UC Berkeley defines academic misconduct. In particular, the sections on cheating and plagiarism are most relevant for this class.
+Berkeley’s code of conduct is [here](https://sa.berkeley.edu/code-of-conduct). See Section V and Appendix II for information about how UC Berkeley defines academic misconduct. In particular, the sections on cheating and plagiarism are most relevant for this class.
 
 If you are not clear about the expectations for completing an assignment or taking a test or examination, be sure to seek clarification from the instructors or your GSI beforehand.
 
