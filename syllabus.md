@@ -66,7 +66,7 @@ You will each be assigned to a group of 4 to 5 students on January 31. The purpo
 
 ## Grace Period
 
-All assignments, unless stated otherwise, are **due on the specified day at 10:00pm.** Due to the nature of electronic submission, we understand that some students may experience technical difficulties with submission close to the deadline. Therefore, we are offering a **grace period of two hours, until 11:59pm,** to account for these submission issues. If you are having issues during this time, please email your GSI before 10:30pm. **We will not be accepting requests regarding submission errors after 11:59 on the due date.**
+All assignments, unless stated otherwise, are **due on the specified day at 10:00pm.** Due to the nature of electronic submission, we understand that some students may experience technical difficulties with submission close to the deadline. Therefore, we are offering a **grace period of two hours, until 11:59pm,** to account for these submission issues. If you are having issues during this time, please email your submission to the GSI email at ([ph142gsi@berkeley.edu](mailto:ph142gsi@berkeley.edu)) before 10:30pm. **We will not be accepting requests regarding submission errors after 11:59 on the due date.**
 
 ## Late Policy  
 A 50% late penalty will be applied for any assignment submitted within 24 hours of due date. No credit will be given for assignments submitted thereafter. This applies for both labs and homeworks.
@@ -157,7 +157,7 @@ For questions and concerns that are not related to course content, please email 
 
 ## DSP Policy
 
-We will accommodate DSP students according to DSP documentation. Please provide your written requests to the instructor and your GSI and email Asem at [asem_berkalieva@berkeley.edu](mailto:asem_berkalieva@berkeley.edu) by **February 1st** with your request and **"DSP accommodation"** in the subject heading so that any accommodations can be implemented in time for the first midterm exam. If your accommodation allows for extension on take-home assignments, we ask that you discuss your request no later than 24 hours after the assignment is posted.
+We will accommodate DSP students according to DSP documentation according to standard protocol; you do not need to email us your letter. However, if you have any exam accommodations, please email Asem at [asem_berkalieva@berkeley.edu](mailto:asem_berkalieva@berkeley.edu) by **February 1st** with your request and **"DSP accommodation"** in the subject heading so that any accommodations can be implemented in time for the first midterm exam. If your accommodation allows for extension on take-home assignments, we ask that you discuss your request no later than 24 hours after the assignment is posted.
 
 To apply for DSP, see [here.](https://dsp.berkeley.edu/students/new-students)
 
