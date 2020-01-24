@@ -11,7 +11,7 @@ days:
     events:
       "**Wed:** Part I Summary":
         null
-      "**Homework**{: .label .label-disc} No homework this week":
+      "**No homework**{: .label .label-disc} ":
         null
   - date: 2020-02-14
     events:
