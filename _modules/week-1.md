@@ -12,7 +12,7 @@ days:
       "**Homework**{: .label .label-disc} [Homework 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Jan. 28)":
   - date: 2020-01-24
     events:
-      "**Fri:** [Working with Data in R and RStudio (dplyr)](https://ph142-ucb.github.io/sp20/src/lec/l02-working-with-data.pdf) (webcast)":
+      "**Fri:** [Working with Data in R and RStudio (dplyr)](https://ph142-ucb.github.io/sp20/src/lec/l02-working-with-data.pdf) (webcast) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
         "Ch. 1"
       "**Lab**{: .label .label-lab} [Lab 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Jan. 31) ~~(Due Jan. 24)~~":
         null
