@@ -7,12 +7,12 @@ days:
         null
   - date: 2020-01-22
     events:
-      "**Wed:** [Intro to PH142, Datahub, and PPDAC](https://ph142-ucb.github.io/sp20/src/lec/l01-intro.pdf)":
+      "**Wed:** [Intro to PH142, Datahub, and PPDAC](https://ph142-ucb.github.io/sp20/src/lec/l01-intro.pdf) [(webcast)](https://www.youtube.com/watch?v=Wr2qtbOcNO4)":
         null
       "**Homework**{: .label .label-disc} [Homework 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Jan. 28)":
   - date: 2020-01-24
     events:
-      "**Fri:** Working with Data in R and RStudio (dplyr)":
+      "**Fri:** [Working with Data in R and RStudio (dplyr)](https://ph142-ucb.github.io/sp20/src/lec/l02-working-with-data.pdf) (webcast)":
         "Ch. 1"
       "**Lab**{: .label .label-lab} [Lab 1](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Jan. 31) ~~(Due Jan. 24)~~":
         null
