@@ -7,9 +7,7 @@ days:
         null
   - date: 2020-02-19
     events:
-      "**Wed:**":
-        null
-      "**Exam**{: .label .label-exam} **Midterm 1** (in-class)":
+      "**Wed:** **Exam**{: .label .label-exam} **Midterm 1** (in-class)":
         "Ch. 9"
       "**Homework**{: .label .label-disc} Homework 4 (Due Feb. 25)":
         null
