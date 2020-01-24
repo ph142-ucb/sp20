@@ -1,7 +1,7 @@
 ---
 name: Simran Bajwa
 role: Tutor
-email: 
+email: hkbajwa@berkeley.edu
 website: 
 photo: https://ph142-ucb.github.io/sp20/img/simran.png
 ---
