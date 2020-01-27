@@ -3,7 +3,7 @@ title: Week 2
 days:
   - date: 2020-01-27
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} [Visualizing Data in R and RStudio (ggplot2)](https://ph142-ucb.github.io/sp20/src/lec/l03-visualizing-data.pdf) (webcast) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
+      "**Mon:** **Lecture**{: .label .label-lec} [Visualizing Data in R and RStudio (ggplot2)](https://ph142-ucb.github.io/sp20/src/lec/l03-visualizing-data.pdf) (webcast) (code)":
         null
   - date: 2020-01-29
     events:
