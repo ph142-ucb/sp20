@@ -7,12 +7,12 @@ days:
         "Ch. 4"
       "**Quiz 1**{: .label .label-vit} In class":
         null
-      "**Homework**{: .label .label-disc} Homework 3 (Due Feb. 11)":
-        null
   - date: 2020-02-05
     events:
       "**Wed:** **Lecture**{: .label .label-lec} Two-way tables (two categorical variables)":
         "Ch. 5, Ch. 6"
+      "**Homework**{: .label .label-disc} Homework 3 (Due Feb. 11)":
+        null
   - date: 2020-02-07
     events:
       "**Fri:** **Lecture**{: .label .label-lec} Samples and observational studies":

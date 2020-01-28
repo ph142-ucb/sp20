@@ -9,7 +9,7 @@ days:
     events:
       "**Wed:** **Lecture**{: .label .label-lec} Visualizing Distributions For One Variable":
         "Ch. 2"
-      "**Homework**{: .label .label-disc} Homework 2 (Due Feb. 2)":
+      "**Homework**{: .label .label-disc} Homework 2 (Due Feb. 4)":
   - date: 2020-01-31
     events:
       "**Fri:** **Lecture**{: .label .label-lec} Exploring Relationships Between Two Variables":
