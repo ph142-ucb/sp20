@@ -33,7 +33,7 @@ Webcast will be made available on the [course schedule]({{ site.baseurl }}/cours
 
 The section will be used to explore course concepts, practice R programming skills, review key points from lecture, and provide some practice with exam-type questions. Some sections will also include review of published articles that make use of concepts discussed in class.  
 
-Lab participation will be graded based on submission of the weekly lab by the end of your assigned lab section. **Attendance will not be taken**, but valuable material will be covered and GSIs will provide assistance on the lab during section, so we recommend showing up.” 
+Lab participation will be graded based on submission of the weekly lab by the end of your assigned lab section. **Attendance will not be taken**, but valuable material will be covered and GSIs will provide assistance on the lab during section, so we recommend showing up.
 
 Unless you have a conflict in a particular week and have discussed a switch with your GSI, you must attend the section in which you are registered as the lab rooms are small and cannot accommodate switching.
 
@@ -66,7 +66,7 @@ You will each be assigned to a group of 4 to 5 students on January 31. The purpo
 
 ## Grace Period
 
-All assignments, unless stated otherwise, are **due on the specified day at 10:00pm.** Due to the nature of electronic submission, we understand that some students may experience technical difficulties with submission close to the deadline. Therefore, we are offering a **grace period of two hours, until 11:59pm,** to account for these submission issues. If you are having issues during this time, please email your submission to the GSI email at ([ph142gsi@berkeley.edu](mailto:ph142gsi@berkeley.edu)) before 10:30pm. **We will not be accepting requests regarding submission errors after 11:59 on the due date.**
+All assignments, unless stated otherwise, are **due on the specified day at 10:00pm.** Due to the nature of electronic submission, we understand that some students may experience technical difficulties with submission close to the deadline. Therefore, we are offering a **grace period of two hours, until 11:59pm,** to account for these submission issues. If you are having issues during this time, please email your submission to the GSI email at ([142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)) before 10:30pm. **We will not be accepting requests regarding submission errors after 11:59 on the due date.** The grace period applies by default, you do not need to notify us to use it.
 
 ## Late Policy  
 A 50% late penalty will be applied for any assignment submitted within 24 hours of due date. No credit will be given for assignments submitted thereafter. This applies for both labs and homeworks.
