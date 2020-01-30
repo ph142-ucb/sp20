@@ -14,7 +14,7 @@ days:
     events:
       "**Fri:** **Lecture**{: .label .label-lec} Exploring Relationships Between Two Variables (webcast) (code)":
         "Ch. 3"
-      "**Lab**{: .label .label-lab} Lab 2 (Due Jan. 31)":
+      "**Lab**{: .label .label-lab} [Lab 2](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Jan. 31)":
         null
 ---
 
