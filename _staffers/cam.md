@@ -6,4 +6,4 @@ website:
 photo: https://ph142-ucb.github.io/sp20/img/cam.jpeg
 ---
 
-I'm a third year PhD student in Epidemiology with a designated emphasis in computational biology. I completed my MPH in Epidemiology/Biostatistics at UC Berkeley. My research is primarily focused on understanding the molecular mechanisms for development of autoimmune diseases such as multiple sclerosis and rheumatoid arthritis. I'm also interested in causal methods, bias analysis, and Bayesian inference. When I have time off, I enjoy hiking and skiing in the mountains.
+Cam is a third year PhD student in Epidemiology. He is available for both open office hours (Tuesdays 12-2pm - 401 University Hall) and individual tutoring (or groups of two) meetings. Please see his booking page for more details: [https://camadams.youcanbook.me/](https://camadams.youcanbook.me/) Please email me questions with subject line **“PH150A/PH142 tutoring”.**

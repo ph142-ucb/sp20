@@ -36,6 +36,10 @@ nav_links:
     - 'https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F'
   Extra Credit:
     - 'https://ph142-ucb.github.io/sp20/src/extra-credit.pdf'
+  Undergrad Tutoring:
+    - 'https://camadams.youcanbook.me/'
+  Grad Tutoring:
+    - 'https://epibiostatstutor.youcanbook.me/'
 nav_footer_content: "Powered by <a href=\"https://github.com/kevinlin1/just-the-class\">Just the Class</a>"
 
 # Collections for website data
