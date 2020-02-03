@@ -60,6 +60,8 @@ Homework assignments give you practice performing quantitative analyses in R and
 
 Homework is **graded on correctness**. The tests provided will only make sure your answers are within reasonable bounds (ie. if the answer is 50, we might provide tests that check that your answer is within the range of 0-100, and not 142000) so please use them as sanity checks rather than tests of correctness. This is to foster programming independence, as you should always review your code and not depend on someone else to check your code. For this reason, as we recognize this is challenging, homework is **graded as a percentage of problems correct over total points possible.**
 
+**Your two lowest homework grades are dropped**.
+
 ### Project
 
 You will each be assigned to a group of 4 to 5 students on January 31. The purpose of the group project will be to use public health or biological data that you find or have access to and use it to demonstrate three statistical concepts that you’ve learned throughout the course. The data project has three parts corresponding to the three sections of the course. We will also have a peer review process that will contribute to the grading for this project. More information will be provided at a later date. 
