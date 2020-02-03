@@ -1,7 +1,7 @@
 ---
 name: Nolan Pokpongkiat
 role: Infrastructure
-email: nnp@berkeley.edu
+email: 
 website: 
 photo: https://ph142-ucb.github.io/sp20/img/nolan.png
 ---

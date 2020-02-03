@@ -1,7 +1,7 @@
 ---
 name: Aidan McLoughlin
 role: Teaching Assistant
-email: aidan_mcloughlin@berkeley.edu
+email: 
 website: 
 photo: https://ph142-ucb.github.io/sp20/img/aidan.png
 ---

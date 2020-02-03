@@ -1,7 +1,7 @@
 ---
 name: Asem Berkalieva
 role: Teaching Assistant
-email: asem_berkalieva@berkeley.edu
+email: 
 website: 
 photo: https://ph142-ucb.github.io/sp20/img/asem.jpeg
 ---

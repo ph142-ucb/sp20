@@ -1,7 +1,7 @@
 ---
 name: Sophie Fuller
 role: Teaching Assistant
-email: sophia.fuller@berkeley.edu
+email: 
 website: 
 photo: https://ph142-ucb.github.io/sp20/img/sophie.jpeg
 ---

@@ -1,7 +1,7 @@
 ---
 name: Yi Li
 role: Teaching Assistant
-email: yi_li@berkeley.edu
+email: 
 website: 
 photo: https://ph142-ucb.github.io/sp20/img/yi.png
 ---
