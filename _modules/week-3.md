@@ -3,7 +3,7 @@ title: Week 3
 days:
   - date: 2020-02-03
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} Introduction to Regression":
+      "**Mon:** **Lecture**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/sp20/src/lec/l06-introduction-to-regression.pdf) (webcast) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
         "Ch. 4"
       "**Quiz 1**{: .label .label-vit} In class":
         null
