@@ -1,0 +1,10 @@
+name: grading-app
+title:
+username:
+account: nnpok
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1755704
+bundleId: 2772946
+url: https://nnpok.shinyapps.io/grading-app/
+when: 1580777506.5155
