@@ -40,6 +40,8 @@ nav_links:
     - 'https://camadams.youcanbook.me/'
   Grad Tutoring:
     - 'https://epibiostatstutor.youcanbook.me/'
+  Calculate Your Grade:
+    - 'https://nnpok.shinyapps.io/grading-app/'
 nav_footer_content: "Powered by <a href=\"https://github.com/kevinlin1/just-the-class\">Just the Class</a>"
 
 # Collections for website data

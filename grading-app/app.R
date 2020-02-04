@@ -107,9 +107,9 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Miscellaneous</b><br/> Enter a % grade for each item. You can miss 5 participations points without penalty of lecture attendance.<br><br>")),
+           HTML("<b>Miscellaneous</b><br/> Enter a % grade for each item. You can miss 5 participation quizzes without penalty of lecture attendance.<br><br>")),
     column(3, 
-           numericInput(("lec"), "Lecture participation", value = NA, min = 0, max = 100)),
+           numericInput(("lec"), "Lecture Quizzes", value = NA, min = 0, max = 100)),
     column(3, 
            numericInput(("group"), "Data Project", value = NA, min = 0, max = 100)),
     column(3, 
