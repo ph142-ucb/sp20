@@ -10,8 +10,8 @@ This site is built from Kevin Lin's [Just the Class](https://github.com/kevinlin
 ```bash
 $ git clone https://github.com/ph142-ucb/sp20.git
 ```
-2. Make a branch.
-3. Submit a PR and add [Nolan](https://github.com/nnpok) as a reviewer.
+2. Make edits on `master` (git add, commit, push)
+3. Feel free to push straight to master. You should see changes reflected on the course website within 2-3 minutes.
 
 See this [amazing video guide](https://www.youtube.com/watch?v=azPPK5aOcV0&feature=youtu.be&t=460s) by [Suraj](https://github.com/surajrampure).
 
