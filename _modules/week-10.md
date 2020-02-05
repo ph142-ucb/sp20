@@ -13,3 +13,4 @@ days:
     events:   
        "**Fri: No class**":
         null
+---
