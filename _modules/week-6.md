@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2020-02-24
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} General Rules of Probability: II":
+      "**Mon:** **Lecture**{: .label .label-lec} General Rules of Probability II":
         "Ch. 10"
   - date: 2020-02-26
     events:
