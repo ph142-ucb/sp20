@@ -9,7 +9,7 @@ days:
     events:
       "**Wed:** **Lecture**{: .label .label-lec} The Poisson Distribution":
         "Ch. 12"
-      "**Homework**{: .label .label-disc} Homework 3 (Due Mar 10th)":
+      "**Homework**{: .label .label-disc} Homework 6 (Due Mar 10th)":
         null
   - date: 2020-03-06
     events:
