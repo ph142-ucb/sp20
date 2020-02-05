@@ -20,5 +20,5 @@ days:
       "**Quiz 3**{: .label .label-vit} In class":
         null
        "**Data Project**{: .label .label-proj} Data Project Part 1 Due":
-       null
+        null
 ---
