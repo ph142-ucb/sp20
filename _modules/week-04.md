@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2020-02-10
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} [Designing Experiments] (https://ph142-ucb.github.io/sp20/src/lec/l09-study-design.pdf)":
+      "**Mon:** **Lecture**{: .label .label-lec} [Designing Experiments](https://ph142-ucb.github.io/sp20/src/lec/l09-study-design.pdf)":
         "Ch. 8"
       "**Quiz 2**{: .label .label-vit} In class":
         null
