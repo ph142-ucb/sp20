@@ -11,12 +11,12 @@ days:
     events:
       "**Wed:** **Lecture**{: .label .label-lec} [Two-way tables (two categorical variables](https://ph142-ucb.github.io/sp20/src/lec/l07-two-categorical-vars.pdf) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
         "Ch. 5, Ch. 6"
-      "**Homework**{: .label .label-disc} Homework 3 (Due Feb. 11)":
+      "**Homework**{: .label .label-disc} [Homework 3](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Feb. 11)":
         null
   - date: 2020-02-07
     events:
       "**Fri:** **Lecture**{: .label .label-lec} [Samples and observational studies](https://ph142-ucb.github.io/sp20/src/lec/l08-samples.pdf) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
         "Ch. 7"
-      "**Lab**{: .label .label-lab} Lab 3 (Due Feb. 7)":
+      "**Lab**{: .label .label-lab} [Lab 3](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Feb. 7)":
         null
 ---
