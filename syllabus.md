@@ -64,7 +64,7 @@ Homework is **graded on correctness**. The tests provided will only make sure yo
 
 ### Project
 
-You will each be assigned to a group of 4 to 5 students on January 31. The purpose of the group project will be to use public health or biological data that you find or have access to and use it to demonstrate three statistical concepts that you’ve learned throughout the course. The data project has three parts corresponding to the three sections of the course. We will also have a peer review process that will contribute to the grading for this project. More information will be provided at a later date. 
+You will each be assigned to a group of 4 to 5 students on February 7. The purpose of the group project will be to use public health or biological data that you find or have access to and use it to demonstrate three statistical concepts that you’ve learned throughout the course. The data project has three parts corresponding to the three sections of the course. We will also have a peer review process that will contribute to the grading for this project. More information will be provided at a later date. 
 
 ## Grace Period
 
