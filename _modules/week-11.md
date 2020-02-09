@@ -13,13 +13,13 @@ days:
         null
       "**Quiz 5**{: .label .label-vit} In class":
         null
-
----
   - date: 2020-04-03
     events:
-      "**Fri:** **Lecture**{: .label .label-lec}Comparing Two Means":
+     "**Fri:** **Lecture**{: .label .label-lec} Comparing Two Means":
       "Ch. 18"
-      "**Lab**{: .label .label-lab} Lab 8 (Due Apr 10)":
+     "**Lab**{: .label .label-lab} Lab 8 (Due Apr 10)":
         null
-      "**Data Project**{: .label .label-proj} Data Project Part 2 Due":
+     "**Data Project**{: .label .label-proj} Data Project Part 2 Due":
         null
+---
+
