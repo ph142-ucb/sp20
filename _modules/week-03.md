@@ -15,7 +15,7 @@ days:
         null
   - date: 2020-02-07
     events:
-      "**Fri:** **Lecture**{: .label .label-lec} [Samples and observational studies](https://ph142-ucb.github.io/sp20/src/lec/l08-samples.pdf) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
+      "**Fri:** **Lecture**{: .label .label-lec} [Samples and observational studies](https://ph142-ucb.github.io/sp20/src/lec/l08-samples.pdf) [(webcast)](https://www.youtube.com/watch?v=WxR_Uxs7Y1U) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
         "Ch. 7"
       "**Lab**{: .label .label-lab} [Lab 3](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Feb. 7)":
         null
