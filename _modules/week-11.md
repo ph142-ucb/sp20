@@ -11,8 +11,10 @@ days:
         "Ch. 17"
       "**Homework**{: .label .label-disc} Homework 8 (Due Apr 7)":
         null
-        "**Quiz 5**{: .label .label-vit} In class":
+      "**Quiz 5**{: .label .label-vit} In class":
         null
+
+---
   - date: 2020-04-03
     events:
       "**Fri:** **Lecture**{: .label .label-lec}Comparing Two Means":
@@ -21,4 +23,3 @@ days:
         null
       "**Data Project**{: .label .label-proj} Data Project Part 2 Due":
         null
----
