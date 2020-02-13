@@ -13,6 +13,8 @@ days:
         null
       "**No homework**{: .label .label-disc} ":
         null
+      "**Data Project**{: .label .label-proj} [Data Project Part 1 Released](https://ph142-ucb.github.io/sp20/src/proj/proj-pt1.pdf)":
+        null
   - date: 2020-02-14
     events:
       "**Fri:** **Lecture**{: .label .label-lec} Intro to Probability":
