@@ -17,7 +17,7 @@ days:
         null
   - date: 2020-02-14
     events:
-      "**Fri:** **Lecture**{: .label .label-lec} [Intro to Probability](https://ph142-ucb.github.io/sp20/src/lec/l11intro-to-probability.pdf)":
+      "**Fri:** **Lecture**{: .label .label-lec} [Intro to Probability](https://ph142-ucb.github.io/sp20/src/lec/l-11intro-to-probability.pdf)":
         "Ch. 9"
       "**Lab**{: .label .label-lab} Midterm Review":
         null
