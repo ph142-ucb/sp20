@@ -1,4 +1,4 @@
-more---
+---
 title: Week 5
 days:
   - date: 2020-02-17
