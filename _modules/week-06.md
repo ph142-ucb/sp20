@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2020-02-24
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} [Even More probability](https://ph142-ucb.github.io/sp20/src/lec/l13-even-more-probability.pdf)":
+      "**Mon:** **Lecture**{: .label .label-lec} [Even More Probability](https://ph142-ucb.github.io/sp20/src/lec/l13-even-more-probability.pdf) [(webcast)](https://www.youtube.com/watch?v=Jc0rBp1_4n4)":
         "Ch. 10"
   - date: 2020-02-26
     events:
