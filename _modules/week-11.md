@@ -17,7 +17,7 @@ days:
     events:
      "**Fri:** **Lecture**{: .label .label-lec} Comparing Two Means":
       "Ch. 18"
-     "**Lab**{: .label .label-lab} Lab 8 (Due Apr 10)":
+     "**Lab**{: .label .label-lab} Lab 8 (Due Apr 3rd)":
         null
      "**Data Project**{: .label .label-proj} Data Project Part 2 Due":
         null
