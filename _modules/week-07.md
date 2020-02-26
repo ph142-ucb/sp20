@@ -15,6 +15,6 @@ days:
     events:
       "**Fri:** **Lecture**{: .label .label-lec} Sampling Distribution and the Central Limit Theorem":
         "Ch. 13"
-      "**Lab**{: .label .label-lab} Lab 6 (Due Mar 13th)":
+      "**Lab**{: .label .label-lab} Lab 6 (Due Mar 6th)":
         null
 ---
