@@ -7,7 +7,7 @@ days:
         "Ch. 10"
   - date: 2020-02-26
     events:
-      "**Wed:** **Lecture**{: .label .label-lec} The Normal Distribution":
+      "**Wed:** **Lecture**{: .label .label-lec} [The normal distribution](https://ph142-ucb.github.io/sp20/src/lec/l14-normal-distribution.pdf)":
         "Ch. 11"
       "**Homework**{: .label .label-disc} Homework 5 (Due March 3rd)":
         null
