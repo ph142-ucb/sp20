@@ -9,13 +9,13 @@ days:
     events:
       "**Wed:** **Lecture**{: .label .label-lec} [The normal distribution](https://ph142-ucb.github.io/sp20/src/lec/l14-normal-distribution.pdf)":
         "Ch. 11"
-      "**Homework**{: .label .label-disc} Homework 5 (Due March 3rd)":
+      "**Homework**{: .label .label-disc} [Homework 5](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due March 3rd)":
         null
   - date: 2020-02-28
     events:
       "**Fri:** **Lecture**{: .label .label-lec} Normal and Binomial Distributions":
         "Ch. 11, Ch. 12"
-      "**Lab**{: .label .label-lab}  Lab 5 (Due Mar 6th)":
+      "**Lab**{: .label .label-lab}  [Lab 5](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Feb 28th)":
         null
       "**Quiz 3**{: .label .label-vit} In class":
         null
