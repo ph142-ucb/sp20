@@ -17,6 +17,6 @@ days:
     events:
       "**Fri:** **Lecture**{: .label .label-lec} Power, Error, and Sample Size":
         "Ch. 15"
-      "**Lab**{: .label .label-lab} Lab 7 (Due Mar 20)":
+      "**Lab**{: .label .label-lab} Lab 7 (Due Mar 13th)":
         null
 ---
