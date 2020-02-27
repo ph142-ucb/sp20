@@ -13,7 +13,7 @@ days:
         null
   - date: 2020-02-28
     events:
-      "**Fri:** **Lecture**{: .label .label-lec} Normal and Binomial Distributions":
+      "**Fri:** **Lecture**{: .label .label-lec} [Normal and Binomial distributions](https://ph142-ucb.github.io/sp20/src/lec/l15-normal-binomial.pdf)":
         "Ch. 11, Ch. 12"
       "**Lab**{: .label .label-lab}  [Lab 5](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Feb 28th)":
         null
