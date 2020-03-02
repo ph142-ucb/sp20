@@ -7,7 +7,7 @@ days:
         "Ch. 12"
   - date: 2020-03-04
     events:
-      "**Wed:** **Lecture**{: .label .label-lec} The Poisson Distribution":
+      "**Wed:** **Lecture**{: .label .label-lec} [Lecture 17: Poisson](https://ph142-ucb.github.io/sp20/src/lec/l17-poisson.pdf)[(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
         "Ch. 12"
       "**Homework**{: .label .label-disc} Homework 6 (Due Mar 10th)":
         null
