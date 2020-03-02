@@ -3,7 +3,7 @@ title: Week 7
 days:
   - date: 2020-03-02
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} The Binomial Distribution II":
+      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 16: Binomial](https://ph142-ucb.github.io/sp20/src/lec/l16-binomial.pdf)":
         "Ch. 12"
   - date: 2020-03-04
     events:
