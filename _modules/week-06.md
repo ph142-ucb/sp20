@@ -17,7 +17,7 @@ days:
         "Ch. 11, Ch. 12"
       "**Lab**{: .label .label-lab}  [Lab 5](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Feb 28th)":
         null
-      "**Quiz 3**{: .label .label-vit} In class [Quiz 3 solutions](https://ph142-ucb.github.io/sp20/src/lec/quiz3-solutions.pdf)":
+      "**Quiz 3**{: .label .label-vit} [Quiz 3 solutions](https://ph142-ucb.github.io/sp20/src/lec/quiz3-solutions.pdf)":
         null
       "**Data Project**{: .label .label-proj} Data Project Part 1 Due":
         null
