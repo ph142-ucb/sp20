@@ -10,6 +10,6 @@ photo: https://ph142-ucb.github.io/sp20/img/mi-suk.jpeg
 
 All office hours are held at my office.
 
-2121 Berkeley Way West, Rm 5334
+2121 Berkeley Way West, Rm 5332
 
 [Schedule an appointment](https://mi-suk.youcanbook.me/){: .btn .btn-outline }
