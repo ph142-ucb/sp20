@@ -3,7 +3,7 @@ title: Week 8
 days:
   - date: 2020-03-09
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 19: Confidence Intervals](https://ph142-ucb.github.io/sp20/src/lec/l19-confidence.pdf) ":
+      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 19: Confidence Intervals](https://ph142-ucb.github.io/sp20/src/lec/l19-confidence.pdf) [(webcast)](https://www.youtube.com/watch?v=Uv45t9LRX_s)":
         "Ch. 14"
       "**Quiz 4**{: .label .label-vit} Gradescope":
         null
