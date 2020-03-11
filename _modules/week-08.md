@@ -9,7 +9,7 @@ days:
         null
   - date: 2020-03-11
     events:
-      "**Wed:** **Lecture**{: .label .label-lec} [Lecture 20: Hypothesis testing](https://ph142-ucb.github.io/sp20/src/lec/l20-hypothesis.pdf)" [(webcast)](https://www.youtube.com/watch?v=IbJY21wdrl0):
+      "**Wed:** **Lecture**{: .label .label-lec} [Lecture 20: Hypothesis testing](https://ph142-ucb.github.io/sp20/src/lec/l20-hypothesis.pdf) [(webcast)](https://www.youtube.com/watch?v=IbJY21wdrl0)":
         "Ch. 14"
       "**Homework**{: .label .label-disc} Homework 7 (Due Mar 17)":
         null
