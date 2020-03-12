@@ -11,13 +11,13 @@ days:
     events:
       "**Wed:** **Lecture**{: .label .label-lec} [Lecture 20: Hypothesis testing](https://ph142-ucb.github.io/sp20/src/lec/l20-hypothesis.pdf) [(webcast)](https://www.youtube.com/watch?v=IbJY21wdrl0)":
         "Ch. 14"
-      "**Homework**{: .label .label-disc} [Homework 7](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Mar 17)":
+      "**Homework**{: .label .label-disc} [Homework 7](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Mar 18th)":
         null
   - date: 2020-03-13
     events:
       "**Fri:** **Lecture**{: .label .label-lec} Power, Error, and Sample Size":
         "Ch. 15"
-      "**Lab**{: .label .label-lab} [Lab 7](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Mar 13th)":
+      "**Lab**{: .label .label-lab} ~~Lab 7~~ Midterm Practice Submission (Due Mar 13th)":
         null
       "**Data Project**{: .label .label-proj} Peer Reviews (Due Mar 13th) [(reports)](https://drive.google.com/open?id=13I4HePm9N6yQmXor7CH1QfrIF0UCwO-2) [(form)](https://docs.google.com/forms/d/e/1FAIpQLSd_WX9uuR6lwNT6AtvXr62i-7do1zT8ccCzbweXNuDwUnHCqw/viewform)":
         null
