@@ -9,7 +9,7 @@ days:
         null
   - date: 2020-03-11
     events:
-      "**Wed:** **Lecture**{: .label .label-lec} Hypothesis Testing":
+      "**Wed:** **Lecture**{: .label .label-lec} [Lecture 20: Hypothesis testing](https://ph142-ucb.github.io/sp20/src/lec/l20-hypothesis.pdf) [(webcast)](https://www.youtube.com/watch?v=IbJY21wdrl0)":
         "Ch. 14"
       "**Homework**{: .label .label-disc} [Homework 7](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Mar 17)":
         null
