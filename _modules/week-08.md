@@ -15,7 +15,7 @@ days:
         null
   - date: 2020-03-13
     events:
-      "**Fri:** **Lecture**{: .label .label-lec} Power, Error, and Sample Size":
+      "**Fri:** **Lecture**{: .label .label-lec}  [Lecture 21: Power and sample size](https://ph142-ucb.github.io/sp20/src/lec/l21-power.pdf)":
         "Ch. 15"
       "**Lab**{: .label .label-lab} [~~Lab 7~~](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) [Midterm Practice Submission](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Mar 13th)":
         null
