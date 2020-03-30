@@ -13,8 +13,8 @@ days:
         null
   - date: 2020-03-20
     events:
-      "**Fri:** **Exam**{: .label .label-exam} **Midterm 2** (in-class)":
- 
+      "**Fri:** **Exam**{: .label .label-exam} ~**Midterm 2**~ (postponed to 4/1)":
+        null
       "**No Lab**{: .label .label-lab}":
         null
 ---
