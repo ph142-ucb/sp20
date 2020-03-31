@@ -11,7 +11,7 @@ days:
         null
       "**Homework**{: .label .label-disc} ~~Homework 8 (Due Apr 7)~~ Postponed":
         null
-      "**Quiz 5**{: .label .label-vit} ~In class~ (postponed, TBA)":
+      "**Quiz 5**{: .label .label-vit} ~~In class~~ (postponed, TBA)":
         null
   - date: 2020-04-03
     events:
@@ -19,7 +19,7 @@ days:
       "Ch. 18"
      "**Lab**{: .label .label-lab} ~~Lab 8 (Due Apr 3rd)~~ Postponed":
         null
-     "**Data Project**{: .label .label-proj} ~Data Project Part 2 Due~ (postponed, TBA)":
+     "**Data Project**{: .label .label-proj} ~~Data Project Part 2 Due~~ (postponed, TBA)":
         null
 ---
 
