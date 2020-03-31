@@ -9,7 +9,7 @@ days:
     events:
       "**Wed:** **Lecture**{: .label .label-lec} GSI Led Midterm Review":
         null
-      "**No Homework**{: .label .label-disc}":
+      "**Homework**{: .label .label-disc} Assignment 11 (Due Apr 5)":
         null
       "**Data Project**{: .label .label-proj} Data Project Part 3 Due":
         null
@@ -17,6 +17,6 @@ days:
     events:
      "**Fri:** **Lecture**{: .label .label-lec} Biostatistics Jeopardy":
       null
-     "**Lab**{: .label .label-lab} No Lab Assignment: Review":
+     "**Lab**{: .label .label-lab} Lab 11 (Due May 1)":
         null
 ---
