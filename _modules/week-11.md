@@ -15,8 +15,8 @@ days:
         null
   - date: 2020-04-03
     events:
-     "**Fri:** **Lecture**{: .label .label-lec} ~~Comparing Two Means~~ Inference about a Population Mean":
-      "~~Ch. 18~~ Ch. 17"
+     "**Fri:** **Lecture**{: .label .label-lec}  [Inference about a Population Mean](https://ph142-ucb.github.io/sp20/src/lec/Ch17_Inference-population-mean.pdf)":
+      "Ch. 17"
      "**Lab**{: .label .label-lab} ~~Lab 8 (Due Apr 3rd)~~ Postponed":
         null
      "**Data Project**{: .label .label-proj} ~~Data Project Part 2 Due~~ (postponed, TBA)":
