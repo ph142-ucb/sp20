@@ -11,7 +11,7 @@ days:
         null
       "**Homework**{: .label .label-disc} Assignment 11 (Due Apr 5)":
         null
-      "**Data Project**{: .label .label-proj} Data Project Part 3 Due":
+      "**Data Project**{: .label .label-proj} Data Project Part 2 and Part 3 Due":
         null
   - date: 2020-05-01
     events:
