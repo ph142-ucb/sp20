@@ -58,9 +58,9 @@ Lab exercises are **graded on correct completion**, so you must complete the lab
 
 Homework assignments give you practice performing quantitative analyses in R and interpreting the results. Homework will generally be posted on Wednesday nights and due the following Tuesday night. 
 
-Homework is **graded on correctness**. The tests provided will only make sure your answers are within reasonable bounds (ie. if the answer is 50, we might provide tests that check that your answer is within the range of 0-100, and not 142000) so please use them as sanity checks rather than tests of correctness. This is to foster programming independence, as you should always review your code and not depend on someone else to check your code. For this reason, as we recognize this is challenging, homework is **graded as a percentage of problems correct over total points possible.**
+Homework is **graded on correctness**. The tests provided will only make sure your answers are within reasonable bounds (ie. if the answer is 50, we might provide tests that check that your answer is within the range of 0-100, and not 142000) so please use them as sanity checks rather than tests of correctness. This is to foster programming independence, as you should always review your code and not depend on someone else to check your code. For this reason, as we recognize this is challenging, homework is **graded as a percentage of problems correct over total points possible.**  All HW post spring break will be given 100% credit if at least 60% of the points were correct.
 
-**Your two lowest homework grades are dropped**.
+**Change:  Your three lowest homework grades are dropped**.
 
 ### Project
 
@@ -76,11 +76,11 @@ A 50% late penalty will be applied for any assignment submitted within 24 hours 
 
 ## Exams
 
-There are two in-class midterms and one final exam. Exams will cover the material presented in lecture, discussion, and lab sections, including R coding syntax, unless otherwise noted. You'll be allowed one single-sided 8.5x11 sheet of notes for each exam.
+There were two in-class midterms and one final exam planned, only the first was administered in person. Exams will cover the material presented in lecture, discussion, and lab sections, including R coding syntax, unless otherwise noted. You'll be allowed one single-sided 8.5x11 sheet of notes for each exam.
 
 - **Midterm 1:**  Wednesday, February 19 *(in class)*
-- **Midterm 2:** Friday, March 20 *(in class)*
-- **Final:** Monday, May 11, 8-11am
+- **Midterm 2:** Friday, March 20 *(online)*
+- **Final:** Monday (format TBD), May 11, 8-11am
 
 On the **first midterm** you may be tested on your ability to:
 
@@ -111,28 +111,28 @@ On the **final exam** you may be tested on your ability to:
 
 If you have a conflict with any of the exam dates, **you must notify the instructor by email by February 1st.** If you have a conflict, you may have the option to take an early “beta” version of the midterm/final, usually in the week prior to the scheduled midterm/final. Beta versions of the exam give us a chance to refine questions, should the questions change for the final version, beta testers scores will be adjusted upwards by a percentage determined by the number of exam points that changed between versions. Please note that the only acceptable reason for missing an exam is a medical or family emergency with supporting documentation. 
 
-## Grading
+## Grading (updated)
 
 - **In-class participation and quizzes:** 10% 
 - **Lab Participation:** 5%
 - **Problem sets:** 20% 
 - **Midterm 1:** 15%
-- **Midterm 2:** 15%
-- **Project:** 10%
-- **Final Exam:** 25%
+- **Midterm 2:** 10%
+- **Project:** 12.5%
+- **Final Exam:** 27.5%
 - **Extra Credit _*(optional)*_**: up to 2 points on total grade 
 
-P/NP grading is permitted for this course. There are no differences in the course requirements or the grading for students who choose this option. B- is a passing grade.
+P/NP grading is now the default for undergraduate students for this course. There are no differences in the course requirements or the grading for students who choose this option. B- is a passing grade.
 
-### In-class participation
+### In-class participation (updated)
 
-Participation questions will be incorporated into lecture.  Points for participation will be  awarded based on completion of questions during lecture. These questions will be posed daily at a random point during the lecture. **You are permitted to miss 5 questions without penalty.**
+Participation questions will be incorporated into lecture.  Points for participation will be  awarded based on completion of questions during lecture. These questions will be posed daily and open until the start of the following lecture. **You are permitted to miss 5 questions without penalty.**
 
-### In-class quizzes
+### In-class quizzes (updated)
 
-Periodically we will have short in-class quizzes. These will be exam style questions and will be graded, however **the lowest 2 of your 7 quiz grades will be dropped.** 
+Periodically we will have short in-class quizzes. These will be exam style questions and will be graded, however **the lowest 3 of your 7 quiz grades will be dropped.** 
 
-The allowance for missed participation and dropping the lowest quiz grades is intended to give a buffer for absence due to illness or unforeseen circumstances.
+The allowance for missed participation and dropping the lowest quiz grades is intended to give a buffer for absence due to illness or unforeseen circumstances.  We have added an additional buffer as a result of the Coronavirus response.
 
 ## Regrade Policy
 
