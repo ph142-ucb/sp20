@@ -3,8 +3,8 @@ title: Week 12
 days:
   - date: 2020-04-06
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} ~~ANOVA~~ One Sample Paired T-Tests and Paired T-Tests":
-        "~~Ch. 24~~ Ch. 17"
+      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 25: two sample t](https://ph142-ucb.github.io/sp20/src/lec/L252sample.pdf)":
+        "Ch. 17"
   - date: 2020-04-08
     events:
       "**Wed:** **Lecture**{: .label .label-lec} ~~Nonparametric Testing~~ Comparing Two Means":
