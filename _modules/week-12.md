@@ -3,7 +3,7 @@ title: Week 12
 days:
   - date: 2020-04-06
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 25: two sample t](https://ph142-ucb.github.io/sp20/src/lec/L25-2sample.pdf)":
+      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 25: two sample t](https://ph142-ucb.github.io/sp20/src/lec/L25-2sample.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/l25-2sample)":
         "Ch. 17"
   - date: 2020-04-08
     events:
