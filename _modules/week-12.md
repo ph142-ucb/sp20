@@ -7,11 +7,11 @@ days:
         "Ch. 17"
   - date: 2020-04-08
     events:
-      "**Wed:** **Lecture**{: .label .label-lec} ~~Nonparametric Testing~~ Comparing Two Means":
+      "**Wed:** **Lecture**{: .label .label-lec}  [Lecture 26: paired sample t](https://ph142-ucb.github.io/sp20/src/lec/l26_pairedt.pdf)":
         "Ch. 18"
       "**Homework**{: .label .label-disc} Homework 8 (Due Apr 14)":
         null
-      "**Quiz 5**{: .label .label-vit} ~~In class~~ Online":
+      "**Quiz 5**{: .label .label-vit} Online":
         null
   - date: 2020-04-10
     events:
