@@ -7,7 +7,7 @@ days:
         "Ch. 17"
   - date: 2020-04-08
     events:
-      "**Wed:** **Lecture**{: .label .label-lec}  [Lecture 26: paired sample t](https://ph142-ucb.github.io/sp20/src/lec/l26_pairedt.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1490339/pages)":
+      "**Wed:** **Lecture**{: .label .label-lec}  [Lecture 26: paired sample t](https://ph142-ucb.github.io/sp20/src/lec/l26_pairedt.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/l26)":
         "Ch. 18"
       "**Homework**{: .label .label-disc} Homework 8 (Due Apr 14)":
         null
