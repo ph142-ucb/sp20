@@ -3,7 +3,7 @@ title: Week 13
 days:
   - date: 2020-04-13
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} Tukey's HSD":
+      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 28: non-parametrics](https://ph142-ucb.github.io/sp20/src/lec/L28-nonpara.pdf)":
         null
   - date: 2020-04-15
     events:
