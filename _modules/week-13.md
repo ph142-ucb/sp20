@@ -3,7 +3,7 @@ title: Week 13
 days:
   - date: 2020-04-13
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 28: non-parametrics](https://ph142-ucb.github.io/sp20/src/lec/l28-nonpara.pdf)[code](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) ":
+      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 28: non-parametrics](https://ph142-ucb.github.io/sp20/src/lec/l28_nonpara.pdf) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) ":
         null
   - date: 2020-04-15
     events:
