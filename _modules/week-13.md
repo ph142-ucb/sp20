@@ -7,7 +7,7 @@ days:
         null
   - date: 2020-04-15
     events:
-      "**Wed:** **Lecture**{: .label .label-lec} Inference for Regression":
+      "**Wed:** **Lecture**{: .label .label-lec} [Lecture 29: Inference for Regression](https://ph142-ucb.github.io/sp20/src/lec/l29_reg.pdf) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
         "~~Ch. 20~~ Ch. 23"
       "**Homework**{: .label .label-disc} Homework 9 (Due Apr 21st)":
         null
