@@ -7,7 +7,7 @@ days:
         null
   - date: 2020-04-15
     events:
-      "**Wed:** **Lecture**{: .label .label-lec} [Lecture 29: Inference for Regression](https://ph142-ucb.github.io/sp20/src/lec/l29_reg.pdf) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
+      "**Wed:** **Lecture**{: .label .label-lec} [Lecture 29: Inference for Regression](https://ph142-ucb.github.io/sp20/src/lec/l29_reg.pdf)[(recordings)](https://bcourses.berkeley.edu/courses/1490339/pages/l29-inference-for-regression) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)[(notes sheet)](https://ph142-ucb.github.io/sp20/src/lec/l29_notes.pdf)":
         "~~Ch. 20~~ Ch. 23"
       "**Homework**{: .label .label-disc} Homework 9 (Due Apr 21st)":
         null
@@ -16,7 +16,7 @@ days:
 
   - date: 2020-04-17
     events:
-     "**Fri:** **Lecture**{: .label .label-lec} Inference for Proportion":
+     "**Fri:** **Lecture**{: .label .label-lec} Lecture 30: [Inference for proportions](https://ph142-ucb.github.io/sp20/src/lec/l30_prop.pdf) [(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/l30-inference-for-proportions)":
       "Ch. 19"
      "**Lab**{: .label .label-lab} Lab 9 (Due Apr 17th)":
         null
