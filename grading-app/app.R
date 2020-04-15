@@ -210,15 +210,12 @@ server <- function(input, output) {
   })
   
   output$letter_grade <- renderText({
-    paste0("Letter grade: ", case_when(weighted() >= 97.5 ~ "A+",
-                                       weighted() < 97.5 & weighted() >= 93 ~ "A",
-                                       weighted() < 93 & weighted() >= 88 ~ "A-",
-                                       weighted() < 88 & weighted() >= 84 ~ "B+",
-                                       weighted() < 84 & weighted() >= 80 ~ "B",
-                                       weighted() < 80 & weighted() >= 75 ~ "B-",
-                                       weighted() < 75 & weighted() >= 70 ~ "C+",
-                                       weighted() < 70 & weighted() >= 60 ~ "C- or C",
-                                       weighted() < 60  ~ "C- or lower")
+    paste0("Letter grade: ", case_when(weighted() >= 95 ~ "A+",
+                                       weighted() < 95 & weighted() >= 85 ~ "A",
+                                       weighted() < 85 & weighted() >= 80 ~ "A-",
+                                       weighted() < 80 & weighted() >= 70 ~ "B+",
+                                       weighted() < 70 & weighted() >= 65 ~ "B",
+                                       weighted() < 65 & weighted()  ~ "B- conditional on good faith effort")
     )
   })
   
