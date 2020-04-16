@@ -13,6 +13,8 @@ days:
         null
       "**Quiz 6**{: .label .label-vit} Online":
         null
+      "**Data Project**{: .label .label-proj} [Data Project Part 2+3 Released](https://ph142-ucb.github.io/sp20/src/proj/proj-pt2-pt3.pdf)":
+        null
 
   - date: 2020-04-17
     events:
