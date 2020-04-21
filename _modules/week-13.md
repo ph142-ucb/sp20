@@ -20,6 +20,6 @@ days:
     events:
      "**Fri:** **Lecture**{: .label .label-lec} Lecture 30: [Inference for proportions](https://ph142-ucb.github.io/sp20/src/lec/l30_prop.pdf) [(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/l30-inference-for-proportions)":
       "Ch. 19"
-     "**Lab**{: .label .label-lab} [Lab 9](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Apr 21st)":
+     "**Lab**{: .label .label-lab} [Lab 9](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Apr 21st)[(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/lab09)":
         null
 ---
