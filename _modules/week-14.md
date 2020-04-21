@@ -3,7 +3,7 @@ title: Week 14
 days:
   - date: 2020-04-20
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 31: Comparing two proportions](https://ph142-ucb.github.io/sp20/src/lec/l31_2prop.pdf)":  "Ch. 20"
+      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 31: Comparing two proportions](https://ph142-ucb.github.io/sp20/src/lec/l31_2prop.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/l31-comparing-two-proportions)":  "Ch. 20"
   - date: 2020-04-22
     events:
       "**Wed:** **Lecture**{: .label .label-lec} ~~Chi Squared Two Way Tables~~ Chi Squared Goodness of Fit":
