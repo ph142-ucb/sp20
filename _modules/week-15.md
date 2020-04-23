@@ -3,7 +3,7 @@ title: Week 15
 days:
   - date: 2020-04-27
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} Part 3 Summary":
+      "**Mon:** **Lecture**{: .label .label-lec} Part 3 Summary [Prezi summary of PH142](https://prezi.com/p/xpqdo6z9nbhw/learning-from-data/)":
         null
   - date: 2020-04-29
     events:
