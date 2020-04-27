@@ -3,7 +3,7 @@ title: Week 15
 days:
   - date: 2020-04-27
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} Part 3 Summary [Prezi summary of PH142](https://prezi.com/p/xpqdo6z9nbhw/learning-from-data/)":
+      "**Mon:** **Lecture**{: .label .label-lec} Part 3 Summary [Prezi summary of PH142](https://prezi.com/p/xpqdo6z9nbhw/learning-from-data/)[page with recorded review sessions](https://bcourses.berkeley.edu/courses/1490339/pages/review-sessions)":
         null
   - date: 2020-04-29
     events:
