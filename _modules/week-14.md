@@ -6,7 +6,7 @@ days:
       "**Mon:** **Lecture**{: .label .label-lec} [Lecture 31: Comparing two proportions](https://ph142-ucb.github.io/sp20/src/lec/l31_2prop.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/l31-comparing-two-proportions)":  "Ch. 20"
   - date: 2020-04-22
     events:
-      "**Wed:** **Lecture**{: .label .label-lec} [Lecture 32: Goodness of fit](https://ph142-ucb.github.io/sp20/src/lec/l32_goodnessoffit.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/l32-goodness-of-fit-tests)":
+      "**Wed:** **Lecture**{: .label .label-lec} [Lecture 32: Goodness of fit](https://ph142-ucb.github.io/sp20/src/lec/l32_goodnessoffit.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/l32-goodness-of-fit-tests)[(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
         "Ch. 21"
       "**Homework**{: .label .label-disc} [Homework 10](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due Apr 28th)":
         null
