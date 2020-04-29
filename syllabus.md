@@ -129,7 +129,7 @@ P/NP grading is now the default for undergraduate students for this course. Ther
 
 The new grading buckets will be as follows:
 
-- **A+ : 95+ **
+- **A+ : 95+**
 - **A : 85-94**
 - **A- : 80-85**
 - **B+ : 70-80**
