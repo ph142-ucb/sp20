@@ -129,12 +129,12 @@ P/NP grading is now the default for undergraduate students for this course. Ther
 
 The new grading buckets will be as follows:
 
-- **A+ : $\geq$ 95**
+- **A+ : 95+ **
 - **A : 85-94**
 - **A- : 80-85**
 - **B+ : 70-80**
 - **B : 65-70** 
-- **B- : $\leq$ 65 ** as long as a good faith effort* is made 
+- **B- : 65 or less** as long as a *good faith effort* is made 
 
 *Good faith effort means complete the assignments/labs/participation questions/quizzes (with drops allowed per new policy), take the final, and turn in the data project.
 
