@@ -12,7 +12,7 @@ ui <- fluidPage(
     hr(),
     column(12,
            HTML("<b>Homework </b><br/> Enter a % grade for each assignment (example: enter 71 if you got 71%). 
-                Guess grades for assignment not yet completed or leave blank. <b>Your lowest two will be automatically dropped.</b> <br><br>")),
+                Guess grades for assignment not yet completed or leave blank. <b>Your lowest <del>two</del> three will be automatically dropped.</b> <br><br>")),
     column(2, 
            numericInput("hw01", "HW 01", value = NA, min = 0, max = 100)),
     column(2,
@@ -72,7 +72,7 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Quizzes </b><br/> Enter a % grade for each quiz. <b>The lowest two will be automatically dropped.</b><br><br>")),
+           HTML("<b>Quizzes </b><br/> Enter a % grade for each quiz. <b>The lowest <del>two</del> three will be automatically dropped.</b><br><br>")),
     column(2, 
            numericInput("q1", "Q1", value = NA, min = 0, max = 100, step = 1)),
     column(2,
@@ -95,7 +95,7 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Tests (Midterms 15% each, Final 25%)</b><br/>Enter a % grade for each test. 
+           HTML("<b>Tests (Midterm 1: 15%, Midterm 2: 10%, Final: 25%)</b><br/>Enter a % grade for each test. 
                 Guess grades for tests not yet completed to see how it will affect your overall grade. <br><br>")),
     column(2,
            numericInput("m1", "Midterm 1", value = NA, min = 0, max = 100)),
@@ -107,9 +107,9 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Miscellaneous</b><br/> Enter a % grade for each item. You can miss 5 participation quizzes without penalty of lecture attendance.<br><br>")),
+           HTML("<b>Miscellaneous</b><br/> Enter the number of lecture quizzes missed and a percentage for the project and extra credit. (You can miss 5 lecture participations without penalty of lecture attendance.<br><br>")),
     column(3, 
-           numericInput(("lec"), "Lecture Quizzes", value = NA, min = 0, max = 100)),
+           numericInput(("lec_missed"), "Lecture Participation Missed", value = NA, min = 0, max = 40)),
     column(3, 
            numericInput(("group"), "Data Project", value = NA, min = 0, max = 100)),
     column(3, 
@@ -179,15 +179,21 @@ server <- function(input, output) {
     quiz_weight <- 0.05
     
     mt1_weight <- 0.15
-    mt2_weight <- 0.15
-    final_weight <- 0.25
+    mt2_weight <- 0.10
+    final_weight <- 0.275
     
-    project_weight <- 0.10
+    project_weight <- 0.125
     extra_credit_weight <- 0.02
+    
+    lec_percentage <- 100
+    
+    if (input$lec_missed > 5) {
+      lec_percentage <- ((17 - (input$lec_missed - 5)) / 17) * 100
+    }
     
     hw_grades <- c(input$hw01, input$hw02, input$hw03, input$hw04, input$hw05, 
                    input$hw06, input$hw07, input$hw08, input$hw09, input$hw10, input$hw11)
-    hw_avg <- avg_drop_x_lowest(hw_grades, x=2)
+    hw_avg <- avg_drop_x_lowest(hw_grades, x=3)
     
     lab_grades_raw <- c(input$lab01, input$lab02, input$lab03, input$lab04, input$lab05, 
                         input$lab06, input$lab07, input$lab08, input$lab09, input$lab10, input$lab11)
@@ -196,9 +202,9 @@ server <- function(input, output) {
     
     quiz_grades <- c(input$q1, input$q2, input$q3, input$q4, input$q5, 
                      input$q6, input$q7)
-    quiz_avg <- avg_drop_x_lowest(quiz_grades, x=2)
+    quiz_avg <- avg_drop_x_lowest(quiz_grades, x=3)
     
-    weight_avg <- (hw_avg * hw_weight) + (input$lec * lec_weight) + (lab_avg * lab_weight) + (quiz_avg * quiz_weight) +
+    weight_avg <- (hw_avg * hw_weight) + (lec_percentage * lec_weight) + (lab_avg * lab_weight) + (quiz_avg * quiz_weight) +
       (input$m1* mt1_weight) + (input$m2 * mt2_weight) + (input$final * final_weight) +
       (input$group * project_weight) + (input$bonus * extra_credit_weight)
     
