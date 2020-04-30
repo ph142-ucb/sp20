@@ -103,9 +103,12 @@ On the **final exam** you may be tested on your ability to:
 - Perform a matched t-test
 - Describe and check the assumptions for simple linear regression. Interpret the confidence interval and statistical test of regression intercept and slope coefficients
 - Describe ANOVA, including the null and alternative hypotheses, and interpret output
+- Demonstrate knowledge that has been used throughout the term, in terms of data visualization and data manipulation
+
+Additional material that could be included as extra credit on the final:
+
 - Describe when bootstrapping can be used
 - Describe a permutation test
-- Demonstrate knowledge that has been used throughout the term, in terms of data visualization and data manipulation
 
 ### Exam Conflicts
 
@@ -123,6 +126,17 @@ If you have a conflict with any of the exam dates, **you must notify the instruc
 - **Extra Credit _*(optional)*_**: up to 2 points on total grade 
 
 P/NP grading is now the default for undergraduate students for this course. There are no differences in the course requirements or the grading for students who choose this option. B- is a passing grade.
+
+The new grading buckets will be as follows:
+
+- **A+ : 95+**
+- **A : 85-94**
+- **A- : 80-85**
+- **B+ : 70-80**
+- **B : 65-70** 
+- **B- : 65 or less** as long as a *good faith effort* is made 
+
+*Good faith effort means complete the assignments/labs/participation questions/quizzes (with drops allowed per new policy), take the final, and turn in the data project.
 
 ### In-class participation (updated)
 
