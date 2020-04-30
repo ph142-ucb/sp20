@@ -7,7 +7,7 @@ days:
         null
   - date: 2020-04-29
     events:
-      "**Wed:** **Lecture**{: .label .label-lec} GSI-led Midterm Review":
+      "**Wed:** **Lecture**{: .label .label-lec} [Review slides on power] (https://github.com/ph142-ucb/sp20/src/review2_power.pdf)":
         null
       "**Homework**{: .label .label-disc} [Homework 11](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due May 5)":
         null
