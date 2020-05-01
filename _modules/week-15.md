@@ -15,7 +15,7 @@ days:
         null
   - date: 2020-05-01
     events:
-     "**Fri:** **Lecture**{: .label .label-lec} Review ":
+     "**Fri:** **Lecture**{: .label .label-lec} Review [Extra lecture slides on bootstrap and permutations](https://github.com/ph142-ucb/sp20/tree/master/src/lec/L3_8_v3.pdf)":
       null
      "**Lab**{: .label .label-lab} [Lab 11](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due May 5)":
         null
