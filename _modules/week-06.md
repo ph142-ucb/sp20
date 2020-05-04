@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2020-02-24
     events:
-      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 13: Even More Probability](https://ph142-ucb.github.io/sp20/src/lec/l13-even-more-probability.pdf) [(webcast)](https://www.youtube.com/watch?v=Jc0rBp1_4n4) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) ":
+      "**Mon:** **Lecture**{: .label .label-lec} [Lecture 13: Even More Probability](https://ph142-ucb.github.io/sp20/src/lec/l13-even-more-probability.pdf) [(webcast)](https://www.youtube.com/watch?v=Jc0rBp1_4n4) [(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) [(Additional Practice)](https://bcourses.berkeley.edu/courses/1490339/files/folder/unfiled?preview=77369567) ":
         "Ch. 10"
   - date: 2020-02-26
     events:
