@@ -16,5 +16,5 @@ days:
        "**Fri:** **No Lecture**{: .label .label-lec}":
         null
        "**Final Review Session** [(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/final-review-session)":
-       null
+        null
 ---
