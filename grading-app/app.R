@@ -127,14 +127,14 @@ ui <- fluidPage(
            HTML("<br><br><br><br><br><br>"))
   ))
 
-# Define server logic required to draw a histogram
+# Define server logic 
 server <- function(input, output) {
   
   avg_drop_x_lowest <- function(values, x=0) {
     if (length(values) - sum(is.na(values)) <= x) {
       return(100)
     } else if (x == 0) {
-      return(round(sum(values, na.rm = T) / (sum(!is.na(values)) - x), 2))
+      return(round(sum(values, na.rm = T) / (sum(!is.na(values))), 2))
     } else {
       return(round((sum(values, na.rm = T) - sum(sort(values)[1:x])) / (sum(!is.na(values)) - x), 2))
     }
@@ -144,7 +144,7 @@ server <- function(input, output) {
   output$hw_avg <- renderText({ 
     hw_grades <- c(input$hw01, input$hw02, input$hw03, input$hw04, input$hw05, 
                    input$hw06, input$hw07, input$hw08, input$hw09, input$hw10, input$hw11)
-    hw_avg <- avg_drop_x_lowest(hw_grades, x=2)
+    hw_avg <- avg_drop_x_lowest(hw_grades, x=3)
     
     paste0("Homework Mean: ", hw_avg, "%")
   })
@@ -165,7 +165,7 @@ server <- function(input, output) {
   output$quiz_avg <- renderText({ 
     quiz_grades <- c(input$q1, input$q2, input$q3, input$q4, input$q5, 
                      input$q6, input$q7)
-    quiz_avg <- avg_drop_x_lowest(quiz_grades, x=2)
+    quiz_avg <- avg_drop_x_lowest(quiz_grades, x=3)
     
     paste0("Quiz Mean: ", quiz_avg, "%")
   })
@@ -191,20 +191,20 @@ server <- function(input, output) {
       lec_percentage <- ((17 - (input$lec_missed - 5)) / 17) * 100
     }
     
-    hw_grades <- c(input$hw01, input$hw02, input$hw03, input$hw04, input$hw05, 
-                   input$hw06, input$hw07, input$hw08, input$hw09, input$hw10, input$hw11)
-    hw_avg <- avg_drop_x_lowest(hw_grades, x=3)
+    # hw_grades <- c(input$hw01, input$hw02, input$hw03, input$hw04, input$hw05, 
+    #                input$hw06, input$hw07, input$hw08, input$hw09, input$hw10, input$hw11)
+    # hw_avg <- avg_drop_x_lowest(hw_grades, x=3)
+    # 
+    # lab_grades_raw <- c(input$lab01, input$lab02, input$lab03, input$lab04, input$lab05, 
+    #                     input$lab06, input$lab07, input$lab08, input$lab09, input$lab10, input$lab11)
+    # lab_grades <- (lab_grades_raw == "Completed") * 100
+    # lab_avg <- avg_drop_x_lowest(lab_grades, x=0) 
+    # 
+    # quiz_grades <- c(input$q1, input$q2, input$q3, input$q4, input$q5, 
+    #                  input$q6, input$q7)
+    # quiz_avg <- avg_drop_x_lowest(quiz_grades, x=3)
     
-    lab_grades_raw <- c(input$lab01, input$lab02, input$lab03, input$lab04, input$lab05, 
-                        input$lab06, input$lab07, input$lab08, input$lab09, input$lab10, input$lab11)
-    lab_grades <- (lab_grades_raw == "Completed") * 100
-    lab_avg <- avg_drop_x_lowest(lab_grades, x=0) 
-    
-    quiz_grades <- c(input$q1, input$q2, input$q3, input$q4, input$q5, 
-                     input$q6, input$q7)
-    quiz_avg <- avg_drop_x_lowest(quiz_grades, x=3)
-    
-    weight_avg <- (hw_avg * hw_weight) + (lec_percentage * lec_weight) + (lab_avg * lab_weight) + (quiz_avg * quiz_weight) +
+    weight_avg <- (output$hw_avg * hw_weight) + (lec_percentage * lec_weight) + (output$lab_avg * lab_weight) + (output$quiz_avg * quiz_weight) +
       (input$m1* mt1_weight) + (input$m2 * mt2_weight) + (input$final * final_weight) +
       (input$group * project_weight) + (input$bonus * extra_credit_weight)
     
