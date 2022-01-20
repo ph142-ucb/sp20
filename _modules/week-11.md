@@ -15,7 +15,7 @@ days:
         null
   - date: 2020-04-03
     events:
-     "**Fri:** **Lecture 24**{: .label .label-lec}  [Inference about a Population Mean](https://ph142-ucb.github.io/sp20/src/lec/Ch17_Inference-population-mean.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/guest-lecture)[(code)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F)":
+     "**Fri:** **Lecture 24**{: .label .label-lec}  [Inference about a Population Mean](https://ph142-ucb.github.io/sp20/src/lec/Ch17_Inference-population-mean.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/guest-lecture)[(code)](https://r.datahub.berkeley.edu/)":
       "Ch. 17"
      "**Lab**{: .label .label-lab} ~~Lab 8 (Due Apr 3rd)~~ Postponed":
         null

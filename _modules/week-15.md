@@ -9,7 +9,7 @@ days:
     events:
       "**Wed:** **Lecture**{: .label .label-lec} [Review slides on power](https://ph142-ucb.github.io/sp20/src/lec/review2_power.pdf)":
         null
-      "**Homework**{: .label .label-disc} [Homework 11](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due May 5)":
+      "**Homework**{: .label .label-disc} [Homework 11](https://r.datahub.berkeley.edu/) (Due May 5)":
         null
       "**Data Project**{: .label .label-proj} Data Project Part 2 and Part 3 Due":
         null
@@ -17,6 +17,6 @@ days:
     events:
      "**Fri:** **Lecture**{: .label .label-lec} Review [Extra lecture slides on bootstrap and permutations](https://ph142-ucb.github.io/sp20/src/lec/L3_8_v3.pdf) [wrap up and review slides](https://ph142-ucb.github.io/sp20/src/lec/wrap_up.pdf)":
       null
-     "**Lab**{: .label .label-lab} [Lab 11](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnnpok%2Fph142-sp20&urlpath=rstudio%2F) (Due May 5) [(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/lab-11)":
+     "**Lab**{: .label .label-lab} [Lab 11](https://r.datahub.berkeley.edu/) (Due May 5) [(recording)](https://bcourses.berkeley.edu/courses/1490339/pages/lab-11)":
         null
 ---
